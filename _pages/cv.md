@@ -11,49 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Mathematics, Computer Science, UC Berkeley, 2019
+* M.S. in Electrical and Computer Engineering, Johns Hopkins University, 2023
+* Ph.D in Artificial Intelligence, KAIST, 2028 (expected)
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2023 - Present : Graduate Research Assistant
+ * KAIST School of Computing/Graduate School of AI
+ * Supervisor: Professor Sungju Hwang
+   
+* Fall 2018 - Spring 2019:: Undergraduate Research Assistant
+ * UC Berkeley/Berkeley Artificial Intelligence Research Lab: Gallant Lab
+ * Supervisor: Professor Bruno Olshausen
+  
+* Fall 2017 - Summer 2018: Undergraduate Research Assistant
+  * UC Berkeley/Berkeley Artificial Intelligence Research Lab: Gallant Lab
+  * Supervisor: Professor Jack Gallant
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Java
+* Python
+  * numpy, scipy, pandas
+  * PyTorch
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+ * An Evaluation of Representational Similarity Analysis for Model Selection and Assessment in Computational Neuroscience*
+   L Chen - bioRxiv, 2023 (preprint)
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
