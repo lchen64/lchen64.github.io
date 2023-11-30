@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+** Website Still Under Construction**
+
 I am a Machine Learning PhD student at KAIST with a background in statistical learning, information theory, and optimization. My general research interests are in image processing, statistical signal processing, and computer vision. 
 
 Previously, I graduated from UC Berkeley with Honors, majoring in Mathematics, Computer Science, where I had the pleasure of being advised by Prof Bruno Olshausen and Prof Jack Gallant in the Berkeley Artificial Intelligence Research Lab in my undergraduate research.
