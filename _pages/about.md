@@ -25,5 +25,6 @@ If you're interested in what I do, feel free to email me and schedule a chat.
 Math Notes
 ---
 
-Stochastic Processes: (https://lchen64.github.io/files/Stochastic_Processes.pdf)
-Measure Theory and Lebesgue Integration: (https://lchen64.github.io/files/MeasureAndIntegration.pdf)
+**Stochastic Processes: (https://lchen64.github.io/files/Stochastic_Processes.pdf)
+
+**Measure Theory and Lebesgue Integration: (https://lchen64.github.io/files/MeasureAndIntegration.pdf)
