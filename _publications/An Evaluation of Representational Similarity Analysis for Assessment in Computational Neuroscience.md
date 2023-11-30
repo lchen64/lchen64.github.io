@@ -1,7 +1,7 @@
 ---
 title: "An Evaluation of Representational Similarity Analysis for Assessment in Computational Neuroscience"
 collection: publications
-date: 2009-10-01
+date: 2019-01-01
 venue: 'bioArxiv'
 ---
 
