@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-** Website Under Construction**
 
 I am a first-year PhD student at [KAIST](https://gsai.kaist.ac.kr/) with a background in statistical learning, information theory, and optimization. My general research interests are in image processing/computer vision, statistical signal processing, and automated machine learning. 
 
