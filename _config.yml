@@ -60,7 +60,6 @@ twitter:
   username               : &twitter
 facebook:
   username               :
-  app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
@@ -80,31 +79,28 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Luke Chen"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  location         : "Seoul, South Korea"
+  employer         : "KAIST"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=qkqFnHEAAAAJ"
+  email            : "lchen64@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "lchen64"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/luke-chen-7303b9225
   orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
@@ -114,7 +110,6 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
 
 
 # Reading Files
