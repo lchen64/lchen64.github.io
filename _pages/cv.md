@@ -18,12 +18,12 @@ Education
 Research Experience
 ======
 * Spring 2023 - Present : Graduate Research Assistant
- * KAIST School of Computing/Graduate School of AI
- * Supervisor: Professor Sungju Hwang
+  * KAIST School of Computing/Graduate School of AI
+  * Supervisor: Professor Sungju Hwang
    
 * Fall 2018 - Spring 2019:: Undergraduate Research Assistant
- * UC Berkeley/Berkeley Artificial Intelligence Research Lab: Gallant Lab
- * Supervisor: Professor Bruno Olshausen
+  * UC Berkeley/Berkeley Artificial Intelligence Research Lab: Gallant Lab
+  * Supervisor: Professor Bruno Olshausen
   
 * Fall 2017 - Summer 2018: Undergraduate Research Assistant
   * UC Berkeley/Berkeley Artificial Intelligence Research Lab: Gallant Lab
@@ -32,6 +32,8 @@ Research Experience
 Skills
 ======
 * Java
+* Linux Server
+* HPC, AWS
 * Python
   * numpy, scipy, pandas
   * PyTorch
@@ -43,6 +45,6 @@ Publications
   
 Teaching
 ======
-  
-Service and Leadership
-======
+*Previous:
+  Teaching Assistant for CS 61B: Data Structures and Algorithms (UC Berkeley)
+
