@@ -1,1 +1,1 @@
-Academic Webpage (still under construction)
+Academic Webpage (Under Construction)
