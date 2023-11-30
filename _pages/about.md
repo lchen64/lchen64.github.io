@@ -19,3 +19,11 @@ Besides my research interests, I'm also interested in computational geometry, fu
 In my free time, I like to cook (recently I've been into Italian food), and I play the violin as a hobby. 
 
 If you're interested in what I do, feel free to email me and schedule a chat.
+
+
+---
+Math Notes
+---
+
+Stochastic Processes: (https://lchen64.github.io/files/Stochastic_Processes.pdf)
+Measure Theory and Lebesgue Integration: (https://lchen64.github.io/files/MeasureAndIntegration.pdf)
