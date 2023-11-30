@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.A. in Mathematics, Computer Science, UC Berkeley, 2019
-* M.S. in Electrical and Computer Engineering, Johns Hopkins University, 2023
-* Ph.D in Artificial Intelligence, KAIST, 2028 (expected)
+* Ph.D in Artificial Intelligence, KAIST, 2023 - Present
+* M.S. (Honors) in Electrical and Computer Engineering, Johns Hopkins University, 2023
+* B.A. (Honors) in Mathematics, Computer Science, UC Berkeley, 2019
 
 Research Experience
 ======
@@ -32,11 +32,13 @@ Research Experience
 Skills
 ======
 * Java
+* Scala
 * Linux Server
 * HPC, AWS
+* MATLAB
 * Python
   * numpy, scipy, pandas
-  * PyTorch
+  * PyTorch, sklearn
 
 Publications
 ======
