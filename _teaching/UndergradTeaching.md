@@ -1,7 +1,8 @@
 ---
-title: "CS 61B teaching Assistant"
+title: "CS 61B Teaching Assistant"
 collection: teaching
 type: "Undergraduate Course"
+date: N/A
 venue: "UC Berkeley, Department of EECS"
 ---
 
