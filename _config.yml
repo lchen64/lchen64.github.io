@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Luke Chen"
-  avatar           : "https://lchen64.github.io/photos/PhotoLukeChen.png"
+  avatar           : "https://lchen64.github.io/_images/PhotoLukeChen.png"
   bio              : "Working on AutoML and Computer Vision Research. Hobby for Mathematics, Information Theory, Dynamical Systems, and Signal Processing"
   location         : "Seoul, South Korea"
   employer         : "KAIST"
