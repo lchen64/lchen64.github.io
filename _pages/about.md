@@ -29,3 +29,11 @@ Math Notes
 **Stochastic Processes: (https://lchen64.github.io/files/Stochastic_Processes.pdf)
 
 **Measure Theory and Lebesgue Integration: (https://lchen64.github.io/files/MeasureAndIntegration.pdf)
+
+
+
+---
+Awards
+---
+
+Regents’ and Chancellors’ Scholar: Awarded to Top 1.5% of Incoming Berkeley Undergraduates, Regents’ and Chancellors’ Research Scholarship, Upsilon Pi Epsilon National Computer Science Honors Society, Honors in Berkeley Mathematics Major
