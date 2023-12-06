@@ -50,7 +50,7 @@ Teaching
 *Previous:
   Teaching Assistant for CS 61B: Data Structures and Algorithms (UC Berkeley)
 
-Coursework Completed (UC Berkeley)
+## Coursework Completed (UC Berkeley)
 ======
 
 # Undergraduate
