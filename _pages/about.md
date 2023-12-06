@@ -30,6 +30,7 @@ Math Notes
 
 **Measure Theory and Lebesgue Integration: [PDF](https://lchen64.github.io/files/MeasureAndIntegration.pdf)
 
+**High-Dimensional Statistics and the Johnson-Lindenstrauss Embedding [PDF](https://lchen64.github.io/files/JohnsonLindenstrauss.pdf)
 
 ---
 Course Notes 
