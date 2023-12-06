@@ -50,64 +50,64 @@ Teaching
 *Previous:
   Teaching Assistant for CS 61B: Data Structures and Algorithms (UC Berkeley)
 
-Coursework (UC Berkeley)
+Coursework Completed (UC Berkeley)
 ======
 
 #Undergraduate
-*Abstract Algebra
+* Abstract Algebra
 MATH113
 
-*Algorithms and Complexity Theory
+* Algorithms and Complexity Theory
 CS170
 
-*Complex Analysis
+* Complex Analysis
 MATH185
 
-*Data Structures
+* Data Structures
 CS61B
 
-*Machine Structures
+* Machine Structures
 CS61C
 
-*Honors Multivariable Calculus
+* Honors Multivariable Calculus
 MATHH53
 
-*Linear Systems & Signals
+* Linear Systems & Signals
 EE16B
 
-*Machine Learning
+* Machine Learning
 CS189
 
-*Numerical Analysis
+* Numerical Analysis
 MATH128A
 
-*Operating Systems and Systems Programming
+* Operating Systems and Systems Programming
 CS162
 
-*Probability Theory
+* Probability Theory
 STAT134
 
-*Real Analysis
+* Real Analysis
 MATH104
 
-*Linear Algebra
+* Linear Algebra
 MATH110
 
 #Graduate 
 
-*Combinatorial Algorithms and Optimization
+* Combinatorial Algorithms and Optimization
 CS270
 
-*Information Theory
+* Information Theory
 EE229A
 
-*Mathematical Statistics
+* Mathematical Statistics
 STAT210A
 
-*Measure Theory and Topology
+* Measure Theory and Topology
 MATH202A
 
-*Nonlinear Systems Theory
+* Nonlinear Systems Theory
 EE222
 
 *Stochastic Processes in Systems
