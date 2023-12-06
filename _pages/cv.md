@@ -50,9 +50,9 @@ Teaching
 *Previous:
   Teaching Assistant for CS 61B: Data Structures and Algorithms (UC Berkeley)
 
-## Coursework Completed (UC Berkeley)
-
-# Undergraduate
+# Coursework Completed (UC Berkeley)
+======
+## Undergraduate
 * Abstract Algebra
 MATH113
 
@@ -92,7 +92,7 @@ MATH104
 * Linear Algebra
 MATH110
 
-# Graduate 
+## Graduate 
 
 * Combinatorial Algorithms and Optimization
 CS270
