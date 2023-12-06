@@ -110,8 +110,8 @@ MATH202A
 * Nonlinear Systems Theory
 EE222
 
-*Stochastic Processes in Systems
+* Stochastic Processes in Systems
 EE226A
 
-*Statistical Signal Processing
+* Statistical Signal Processing
 EE225A
