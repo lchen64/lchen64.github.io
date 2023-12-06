@@ -26,16 +26,18 @@ If you're interested in what I do, feel free to email me and I'd be happy to sch
 Math Notes 
 ---
 
-**Stochastic Processes: https://lchen64.github.io/files/Stochastic_Processes.pdf
+**Stochastic Processes: [PDF](https://lchen64.github.io/files/Stochastic_Processes.pdf)
 
-**Measure Theory and Lebesgue Integration: https://lchen64.github.io/files/MeasureAndIntegration.pdf
+**Measure Theory and Lebesgue Integration: [PDF](https://lchen64.github.io/files/MeasureAndIntegration.pdf)
 
 
 ---
 Course Notes 
 ---
 
-**EECS 225A: Statistical Signal Processing (UC Berkeley Graduate Course): https://lchen64.github.io/files/EECS225A(StatisticalSignalProcessing).pdf
+**EE222: Nonlinear Systems: Analysis, Stability and Control : [PDF](https://lchen64.github.io/files/EECS225A(StatisticalSignalProcessing).pdf)
+
+**EECS 225A: Statistical Signal Processing (UC Berkeley Graduate Course): [PDF](https://lchen64.github.io/files/EECS225A(StatisticalSignalProcessing).pdf)
 
 
 ---
