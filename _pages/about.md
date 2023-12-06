@@ -35,7 +35,7 @@ Math Notes
 Course Notes 
 ---
 
-**EE222: Nonlinear Systems: Analysis, Stability and Control : [PDF](https://lchen64.github.io/files/EECS225A(StatisticalSignalProcessing).pdf)
+**EE222: Nonlinear Systems: Analysis, Stability and Control : [PDF](https://lchen64.github.io/files/EE222(NonlinearSystems).pdf)
 
 **EECS 225A: Statistical Signal Processing (UC Berkeley Graduate Course): [PDF](https://lchen64.github.io/files/EECS225A(StatisticalSignalProcessing).pdf)
 
