@@ -27,23 +27,26 @@ If you're interested in what I do, feel free to email me and I'd be happy to sch
 Math Notes 
 ---
 
-**Stochastic Processes: [PDF](https://lchen64.github.io/files/Stochastic_Processes.pdf)
+* Stochastic Processes: [PDF](https://lchen64.github.io/files/Stochastic_Processes.pdf)
 
-**Measure Theory and Lebesgue Integration: [PDF](https://lchen64.github.io/files/MeasureAndIntegration.pdf)
+* Measure Theory and Lebesgue Integration: [PDF](https://lchen64.github.io/files/MeasureAndIntegration.pdf)
 
-**High-Dimensional Statistics and the Johnson-Lindenstrauss Embedding [PDF](https://lchen64.github.io/files/JohnsonLindenstrauss.pdf)
+* High-Dimensional Statistics and the Johnson-Lindenstrauss Embedding [PDF](https://lchen64.github.io/files/JohnsonLindenstrauss.pdf)
 
 ---
 Course Notes 
 ---
 
-**EE222: Nonlinear Systems: Analysis, Stability and Control : [PDF](https://lchen64.github.io/files/EE222(NonlinearSystems).pdf)
+* EE222: Nonlinear Systems: Analysis, Stability and Control : [PDF](https://lchen64.github.io/files/EE222(NonlinearSystems).pdf)
 
-**EECS 225A: Statistical Signal Processing (UC Berkeley Graduate Course): [PDF](https://lchen64.github.io/files/EECS225A(StatisticalSignalProcessing).pdf)
+* EECS 225A: Statistical Signal Processing (UC Berkeley Graduate Course): [PDF](https://lchen64.github.io/files/EECS225A(StatisticalSignalProcessing).pdf)
 
 
 ---
 Awards
 ---
 
-Regents’ and Chancellors’ Scholar: Awarded to Top 1.5% of Incoming Berkeley Undergraduates, Regents’ and Chancellors’ Research Scholarship, Upsilon Pi Epsilon National Computer Science Honors Society, Honors in Berkeley Mathematics Major
+* Regents’ and Chancellors’ Scholar: Awarded to Top 1.5% of Incoming Berkeley Undergraduates
+* Regents’ and Chancellors’ Research Scholarship
+* Upsilon Pi Epsilon National Computer Science Honors Society
+* UC Berkeley Math Major Departmental Honors
