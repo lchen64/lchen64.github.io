@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Artificial Intelligence, KAIST, 2023 - Present
 * M.S. (Honors) in Electrical and Computer Engineering, Johns Hopkins University, 2023
-* B.A. (Honors) in Mathematics, Computer Science, UC Berkeley, 2019
+* B.A. (Honors) in Mathematics, Computer Science, UC Berkeley, 2019 
 
 Research Experience
 ======
@@ -34,11 +34,11 @@ Skills
 * Java
 * Scala
 * Linux Server
-* HPC, AWS
+* HPC, AWS (Sagemaker, S3)
 * MATLAB
 * Python
   * numpy, scipy, pandas
-  * PyTorch, sklearn
+  * PyTorch, Keras, sklearn
 
 Publications
 ======
