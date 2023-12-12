@@ -10,16 +10,19 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+======s
 * Ph.D in Artificial Intelligence, KAIST, 2023 - Present
 * M.S. (Honors) in Electrical and Computer Engineering, Johns Hopkins University, 2023
 * B.A. (Honors) in Mathematics, Computer Science, UC Berkeley, 2019 
 
 Research Experience
 ======
-* Spring 2023 - Present : Graduate Research Assistant
-  * KAIST School of Computing
-  * Supervisor: Professor Sungju Hwang
+* Fall 2023 - Present : Graduate Research Assistant
+  * KAIST Graduate School of AI
+
+* Spring 2023 - Fall 2023 : Research Intern
+  * KAIST School of Computing: [MLAI Lab](https://www.mlai-kaist.com/)
+  * Supervisor: KAIST Endowed Chair Professor Sungju Hwang
    
 * Fall 2018 - Spring 2019: Undergraduate Research Assistant
   * Redwood Center for Theoretical Neuroscience/Berkeley Artificial Intelligence Research Lab: Olshausen Lab
