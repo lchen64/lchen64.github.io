@@ -28,7 +28,7 @@ Research Experience
   * Redwood Center for Theoretical Neuroscience/Berkeley Artificial Intelligence Research Lab: Olshausen Lab
   * Supervisor: Professor Bruno Olshausen
 
-* Summer Undergraduate Research Internship 
+* Summer Undergraduate Research Intern
   * UC Irvine
   * Machine Learning/Deep Learning
   
