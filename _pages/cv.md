@@ -27,8 +27,12 @@ Research Experience
 * Fall 2018 - Spring 2019: Undergraduate Research Assistant
   * Redwood Center for Theoretical Neuroscience/Berkeley Artificial Intelligence Research Lab: Olshausen Lab
   * Supervisor: Professor Bruno Olshausen
+
+* Summer Undergraduate Research Internship 
+  * UC Irvine
+  * Machine Learning/Deep Learning
   
-* Fall 2017 - Summer 2018: Undergraduate Research Assistant
+* Fall 2017 - Fall 2018: Undergraduate Research Assistant
   * UC Berkeley/Berkeley Artificial Intelligence Research Lab: Gallant Lab
   * Supervisor: Professor Jack Gallant
   
