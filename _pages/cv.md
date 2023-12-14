@@ -25,7 +25,7 @@ Research Experience
   * Supervisor: KAIST Endowed Chair Professor Sungju Hwang
    
 * Fall 2018 - Spring 2019: Undergraduate Research Assistant
-  * Redwood Center for Theoretical Neuroscience/Berkeley Artificial Intelligence Research Lab: Olshausen Lab
+  * [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/)/Berkeley Artificial Intelligence Research Lab: Olshausen Lab
   * Supervisor: Professor Bruno Olshausen
 
 * Summer Undergraduate Research Intern
@@ -33,8 +33,8 @@ Research Experience
   * Machine Learning/Deep Learning
   
 * Fall 2017 - Fall 2018: Undergraduate Research Assistant
-  * UC Berkeley/Berkeley Artificial Intelligence Research Lab: Gallant Lab
-  * Supervisor: Professor Jack Gallant
+  * UC Berkeley/Berkeley Artificial Intelligence Research Lab: [Gallant Lab](https://gallantlab.org/)
+  * Supervisor: Chancellor's Professor Jack Gallant and [Professor Reza Abbasi-Asl](https://abbasilab.org/)
   
 Skills
 ======
