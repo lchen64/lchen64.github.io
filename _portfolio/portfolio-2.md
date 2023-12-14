@@ -4,4 +4,4 @@ excerpt: "Leveraging well-established, physically intuitive results from systems
 collection: portfolio
 ---
 
-[Download Slides Here](https:/lchen64@github.io/files/NesterovODEPresentation.pdf)
+[Download Slides Here](NesterovODEPresentation.pdf)
