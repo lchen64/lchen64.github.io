@@ -13,7 +13,9 @@ Education
 ======
 * Ph.D in Artificial Intelligence, KAIST, 2023 - Present
 * M.S. (Honors) in Electrical and Computer Engineering, Johns Hopkins University, 2023
+  * Advisor: Prof Trac. D Tran
 * B.A. (Honors) in Mathematics, Computer Science, UC Berkeley, 2019 
+  * Advisors: Prof Bruno Olshausen and Prof Jack Gallant
 
 Research Experience
 ======
