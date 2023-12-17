@@ -12,7 +12,7 @@ Thanks for stopping by!
 
 I am a first-year PhD student at [KAIST](https://gsai.kaist.ac.kr/) with a background in statistical learning, information theory, and optimization. My general research interests are in image processing/computer vision, statistical signal processing, and automated machine learning. 
 
-Previously, I graduated from UC Berkeley with Honors, majoring in [Mathematics](https://math.berkeley.edu/) and [Computer Science](https://eecs.berkeley.edu), where I had the pleasure of being advised by [Prof Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/) and [Prof Jack Gallant](https://gallantlab.org/) in the [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/) in my undergraduate research. There, I worked on theoretical visual neuroscience and on unsupervised learning methods for computer vision.
+Previously, I graduated from UC Berkeley with Honors, with majors from the [Mathematics Department](https://math.berkeley.edu/) and [Electrical Engineering and Computer Science Department](https://eecs.berkeley.edu), where I had the pleasure of being advised by [Prof Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/) and [Prof Jack Gallant](https://gallantlab.org/) in the [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/) in my undergraduate research. There, I worked on theoretical visual neuroscience and on unsupervised learning methods for computer vision.
 
 I also worked as a machine learning engineer in Silicon Valley before beginning my PhD, where I learned a lot about how to deploy ML models in production software, and how to engineer scalable data pipelines.
 
