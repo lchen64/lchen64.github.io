@@ -46,7 +46,8 @@ Course Notes
 Awards
 ---
 
-* Regents’ and Chancellors’ Scholar: Awarded to Top 1.5% of Incoming Berkeley Undergraduates
-* Regents’ and Chancellors’ Research Scholarship
+* Regents’ and Chancellors’ Scholar: Awarded to Top 1.5% of Incoming UC Berkeley Undergraduates
+* Regents’ and Chancellors’ Research Scholarship (UC Berkeley)
+* UC Berkeley Undergraduate Research Fellowship
 * Upsilon Pi Epsilon National Computer Science Honors Society
-* UC Berkeley Math Major Departmental Honors
+* UC Berkeley Mathematics Major Departmental Honors
