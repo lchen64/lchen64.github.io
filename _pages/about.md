@@ -47,7 +47,8 @@ Awards
 ---
 
 * Regents’ and Chancellors’ Scholar: Awarded to Top 1.5% of Incoming UC Berkeley Undergraduates
-* Regents’ and Chancellors’ Research Scholarship (UC Berkeley)
+* Regents’ and Chancellors’ Research Scholarship: UC Berkeley
 * UC Berkeley Undergraduate Research Fellowship
-* Upsilon Pi Epsilon National Computer Science Honors Society
+* Upsilon Pi Epsilon National Computer Science Honors Society: UC Berkeley Chapter
 * UC Berkeley Mathematics Major Departmental Honors
+* KAIST Presidential PhD Scholarship: Awarded to Top International PhD Applicant by Department
