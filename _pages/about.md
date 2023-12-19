@@ -16,7 +16,7 @@ Previously, I graduated from UC Berkeley with Honors, with majors from the [Math
 
 Before beginning my PhD, I worked as a machine learning engineer, where I learned a lot about how to deploy machine learning models in production-quality software, and how to engineer scalable data pipelines.
 
-Besides my main research interests, I'm also interested in computational geometry, functional analysis, and differential geometry. I enjoy teaching others about what I've learned and was previously a TA at Berkeley.
+Besides my main research interests, I'm also interested in computational geometry, as well as in applications of functional analysis and differential geometry. I enjoy teaching others about what I've learned and was previously a TA at Berkeley.
 
 In my free time, I like to cook: recently I've been into Italian. Also, I play the violin as a hobby. 
 
@@ -37,7 +37,7 @@ Math Notes
 Course Notes 
 ---
 
-* EE222: Nonlinear Systems: Analysis, Stability and Control : [PDF](https://lchen64.github.io/files/EE222(NonlinearSystems).pdf)
+* EE222: Nonlinear Systems: Analysis, Stability and Control (UC Berkeley Graduate Course): [PDF](https://lchen64.github.io/files/EE222(NonlinearSystems).pdf)
 
 * EECS 225A: Statistical Signal Processing (UC Berkeley Graduate Course): [PDF](https://lchen64.github.io/files/EECS225A(StatisticalSignalProcessing).pdf)
 
