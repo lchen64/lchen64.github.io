@@ -34,7 +34,7 @@ Research Experience
 
 * Summer Undergraduate Research Intern
   * UC Irvine
-  * Worked on applications of machine Learning/deep learning
+  * Worked on applications of machine learning/deep learning
   
 * Fall 2017 - Fall 2018: Undergraduate Research Assistant
   * UC Berkeley/[Berkeley Artificial Intelligence Research Lab](bair.berkeley.edu): [Gallant Lab](https://gallantlab.org/)
