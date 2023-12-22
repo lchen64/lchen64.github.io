@@ -15,7 +15,7 @@ Education
   * Current Advisor: [Sungju Hwang](http://www.sungjuhwang.com)
 * M.S. (Honors) in Electrical and Computer Engineering, Johns Hopkins University, 2023
   * Advisor: [Trac. D Tran](https://thanglong.ece.jhu.edu)
-* B.A. (High Honors) in Mathematics, Computer Science, UC Berkeley, 2019 
+* B.A. (High Honors) in [Mathematics](https://math.berkeley.edu/), [Computer Science](https://eecs.berkeley.edu/), UC Berkeley, 2019 
   * Advisors: [Bruno Olshausen]( https://redwood.berkeley.edu/people/bruno-olshausen/) and [Jack Gallant](https://gallantlab.org/)
 
 Research Experience
