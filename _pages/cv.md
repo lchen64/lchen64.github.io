@@ -14,13 +14,14 @@ Education
 * Ph.D in Artificial Intelligence, KAIST, 2023 - Present
 * M.S. (Honors) in Electrical and Computer Engineering, Johns Hopkins University, 2023
   * Advisor: Prof Trac. D Tran
-* B.A. (Honors) in Mathematics, Computer Science, UC Berkeley, 2019 
+* B.A. (High Honors) in Mathematics, Computer Science, UC Berkeley, 2019 
   * Advisors: Prof Bruno Olshausen and Prof Jack Gallant
 
 Research Experience
 ======
 * Fall 2023 - Present : Graduate Research Assistant
   * KAIST Graduate School of AI
+  * Current Advisor: KAIST Endowed Chair Professor Sungju Hwang
 
 * Spring 2023 - Fall 2023 : Research Intern
   * KAIST School of Computing: [MLAI Lab](https://www.mlai-kaist.com/)
