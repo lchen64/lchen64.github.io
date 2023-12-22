@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Artificial Intelligence, KAIST, 2023 - Present
+* Ph.D in Artificial Intelligence, KAIST, August 2023 - Present
+  * Current Advisor: [Sungju Hwang](http://www.sungjuhwang.com)
 * M.S. (Honors) in Electrical and Computer Engineering, Johns Hopkins University, 2023
-  * Advisor: Prof Trac. D Tran
+  * Advisor: [Trac. D Tran](https://thanglong.ece.jhu.edu)
 * B.A. (High Honors) in Mathematics, Computer Science, UC Berkeley, 2019 
-  * Advisors: Prof Bruno Olshausen and Prof Jack Gallant
+  * Advisors: [Bruno Olshausen]( https://redwood.berkeley.edu/people/bruno-olshausen/) and [Jack Gallant](https://gallantlab.org/)
 
 Research Experience
 ======
