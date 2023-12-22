@@ -29,7 +29,7 @@ Research Experience
   * Supervisor: KAIST Endowed Chair Professor Sungju Hwang
    
 * Fall 2018 - Spring 2019: Undergraduate Research Assistant
-  * [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/)/Berkeley Artificial Intelligence Research Lab: Olshausen Lab
+  * [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/)/[Berkeley Artificial Intelligence Research Lab](bair.berkeley.edu): Olshausen Lab
   * Supervisor: Professor Bruno Olshausen
 
 * Summer Undergraduate Research Intern
