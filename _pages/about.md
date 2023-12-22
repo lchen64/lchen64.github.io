@@ -10,21 +10,21 @@ redirect_from:
 
 Thanks for stopping by!
 
-I am a PhD student at [KAIST AI](https://gsai.kaist.ac.kr/) with a background in statistical learning, information theory, and optimization. My research interests span image processing/computer vision, statistical signal processing, and automated machine learning. 
+I am a PhD student at [KAIST AI](https://gsai.kaist.ac.kr/) with a background in statistical learning, information theory, and optimization. My research interests span image processing/computer vision, statistical signal processing, diffusion models, and automated machine learning. I am currently very fortunate to be advised by [Sungju Hwang](http://www.sungjuhwang.com). Recently I have been combining approaches from graph representation learning and stable diffusion models generate neural network weights in a resource-efficient manner.
 
-Previously, I graduated from UC Berkeley with Honors, with majors from the [Mathematics Department](https://math.berkeley.edu/) and [Electrical Engineering and Computer Science Department](https://eecs.berkeley.edu), where I had the pleasure of being advised by [Prof Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/) and [Prof Jack Gallant](https://gallantlab.org/) in the [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/) in my undergraduate research. There, I worked on theoretical visual neuroscience and on unsupervised learning methods for computer vision.
+Previously, I graduated from UC Berkeley with High Honors with majors from the [Mathematics Department](https://math.berkeley.edu/) and [Electrical Engineering and Computer Science Department](https://eecs.berkeley.edu), where I had the pleasure of being advised by [Prof Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/) and [Prof Jack Gallant](https://gallantlab.org/) in the [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/) in my undergraduate research. There, I worked on theoretical visual neuroscience and on unsupervised learning methods for computer vision. During undergrad, I was also a research intern at UCI.
 
 Before beginning my PhD, I worked as a machine learning engineer, where I learned a lot about how to deploy machine learning models in production-quality software, and how to engineer scalable data pipelines.
 
-Besides my main research interests, I'm also interested in computational geometry, as well as in applications of functional analysis and differential geometry. I enjoy teaching others about what I've learned and was previously a TA at Berkeley.
+Besides my main research interests, I'm also interested in computational geometry, as well as in applications of functional analysis and differential geometry to machine learning. I enjoy teaching others about what I've learned and was previously a TA at Berkeley.
 
 In my free time, I like to cook: recently I've been into Italian. Also, I play the violin as a hobby. 
 
-If you're interested in what I do, feel free to email me and I'd be happy to schedule a chat.
+If you're interested in what I do, feel free to email me and I will be happy to schedule a chat.
 
 
 ---
-Math Notes 
+Math/Statistics Notes
 ---
 
 * Stochastic Processes: [PDF](https://lchen64.github.io/files/Stochastic_Processes.pdf)
