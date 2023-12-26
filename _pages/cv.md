@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+============
 * Ph.D in Artificial Intelligence, [KAIST](https://gsai.kaist.ac.kr/), August 2023 - Present
   * Current Advisor: [Sungju Hwang](http://www.sungjuhwang.com)
 * M.S. (Honors) in [Electrical and Computer Engineering](https://engineering.jhu.edu/ece/), Johns Hopkins University, 2023
@@ -18,11 +18,20 @@ Education
 * B.A. (High Honors) in [Mathematics](https://math.berkeley.edu/), [Computer Science](https://eecs.berkeley.edu/), UC Berkeley, 2019 
   * Advisors: [Bruno Olshausen]( https://redwood.berkeley.edu/people/bruno-olshausen/) and [Jack Gallant](https://gallantlab.org/)
 
+
+Work Experience
+================
+* Remote Research Internship: October 2023 - Present
+  * Samsung (SAIT) AI Lab
+  * AutoML, Graph Neural Networks, Neural Architecture Search
+  * Working with [Boris Knyazev](https://bknyaz.github.io/)
+
+    
 Research Experience
-======
+===================
 * Fall 2023 - Present : Graduate Research Assistant
   * KAIST Graduate School of AI
-  * Current Advisor: KAIST Endowed Chair Professor Sungju Hwang
+  * Advisor: KAIST Endowed Chair Professor Sungju Hwang
 
 * Spring 2023 - Fall 2023 : Research Intern
   * KAIST School of Computing: [MLAI Lab](https://www.mlai-kaist.com/)
@@ -41,7 +50,7 @@ Research Experience
   * Supervisor: Chancellor's Professor Jack Gallant and [Professor Reza Abbasi-Asl](https://abbasilab.org/)
   
 Skills
-======
+================
 * Java
 * Scala
 * Linux Server
