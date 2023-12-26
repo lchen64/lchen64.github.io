@@ -22,7 +22,7 @@ Education
 Work Experience
 ================
 * Remote Research Internship: October 2023 - Present
-  * Samsung (SAIT) AI Lab
+  * [Samsung (SAIT) AI Lab](https://www.sait.samsung.co.kr/saithome/research/researchArea.do?idx=14)
   * AutoML, Graph Neural Networks, Neural Architecture Search
   * Working with [Boris Knyazev](https://bknyaz.github.io/)
 
