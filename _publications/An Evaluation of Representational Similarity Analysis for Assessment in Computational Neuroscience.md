@@ -5,4 +5,4 @@ date: 2019-01-01
 venue: 'bioArxiv'
 ---
 
-[Download paper here](RSAForModelSelection.pdf)
+[Download paper here](lchen64@github.io/_publications/RSAForModelSelection.pdf)
