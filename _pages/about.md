@@ -18,7 +18,7 @@ After graduation and before beginning my PhD, I worked as a research engineer at
 
 Besides my main research interests, I'm also interested in computational geometry, as well as in applications of functional analysis and differential geometry to machine learning. I enjoy teaching others about what I've learned and was previously a TA at Berkeley.
 
-In my free time, I like to cook: recently I've been into Italian. Also, I play the violin as a hobby. 
+In my free time (which is unfortunately very limited nowadays), I like to cook: recently I've been into Italian. Also, I play the violin as a hobby. 
 
 If you are a PhD student or postdoc at KAIST with overlapping research interests, and you want to collaborate with me on a research project, you are welcome to email me at lchen64@kaist.ac.kr or lchen64@berkeley.edu
 
