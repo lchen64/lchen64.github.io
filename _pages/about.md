@@ -20,7 +20,7 @@ Besides my main research interests, I'm also interested in computational geometr
 
 In my free time, I like to cook: recently I've been into Italian. Also, I play the violin as a hobby. 
 
-If you're interested in what I do, feel free to email me at lchen64@berkeley.edu, and I will be happy to schedule a chat. Also, if you are a PhD student or postdoc at KAIST and want to collaborate with me on a research project, you are welcome to email me at lchen64@kaist.ac.kr.
+If you are a PhD student or postdoc at KAIST with overlapping research interests, and you want to collaborate with me on a research project, you are welcome to email me at lchen64@kaist.ac.kr or lchen64@berkeley.edu
 
 
 ---
