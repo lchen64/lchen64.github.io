@@ -17,7 +17,7 @@ Education
   * Advisor: [Trac. D Tran](https://thanglong.ece.jhu.edu)
 * B.A. (High Honors) in [Mathematics](https://math.berkeley.edu/), [Computer Science](https://eecs.berkeley.edu/), UC Berkeley, 2019 
   * Advisors: [Bruno Olshausen]( https://redwood.berkeley.edu/people/bruno-olshausen/) and [Jack Gallant](https://gallantlab.org/)
-
+  * Thesis: Improved Neuronal Synchrony in Complex-Valued Autoencoders for Visual Feature Binding
 
 Work Experience
 ================
