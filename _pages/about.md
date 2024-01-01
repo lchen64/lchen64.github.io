@@ -14,7 +14,7 @@ I am a PhD student at [KAIST AI](https://gsai.kaist.ac.kr/) with a background in
 
 Previously, I graduated from UC Berkeley with High Honors with majors from the [Mathematics Department](https://math.berkeley.edu/) and [Electrical Engineering and Computer Science Department](https://eecs.berkeley.edu), where I had the pleasure of being advised by [Prof Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/) and [Prof Jack Gallant](https://gallantlab.org/) in the [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/) in my undergraduate research. There, I worked on theoretical visual neuroscience and unsupervised learning methods for computer vision. As an undergraduate, I was also a research intern at [UC Irvine](https://engineering.uci.edu/dept/eecs).
 
-After graduating and before beginning my PhD, I worked as a research engineer at NYU and as a machine learning engineer, where I learned a lot about how to deploy machine learning models in production-quality software, and how to engineer scalable data pipelines.
+After graduating and before beginning my PhD, I worked as a research engineer at NYU and as a machine learning engineer, where I learned more about how to deploy machine learning in production-quality software, and how to engineer scalable data pipelines.
 
 Besides my main research interests, I'm also interested in computational geometry, as well as in applications of functional analysis and differential geometry to machine learning. I enjoy teaching others about what I've learned and was previously a TA at Berkeley.
 
