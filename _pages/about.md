@@ -41,7 +41,7 @@ Course Notes
 
 * EECS 225A: Statistical Signal Processing (UC Berkeley Graduate Course): [PDF](https://lchen64.github.io/files/EECS225A(StatisticalSignalProcessing).pdf)
 
-* STAT 210A: 
+* STAT 210A: Theoretical/Mathematical Statistics (UC Berkeley Graduate Course): [PDF](https://lchen64.github.io/files/STAT210A(TheoreticalStatistics).pdf)
 
 
 ---
