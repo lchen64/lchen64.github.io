@@ -14,13 +14,13 @@ I am a PhD student at [KAIST AI](https://gsai.kaist.ac.kr/) with a background in
 
 Previously, I graduated from UC Berkeley with High Honors with majors from the [Mathematics Department](https://math.berkeley.edu/) and [Electrical Engineering and Computer Science Department](https://eecs.berkeley.edu), where I had the pleasure of being advised by [Prof Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/) and [Prof Jack Gallant](https://gallantlab.org/) in the [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/) in my undergraduate research. There, I worked on theoretical visual neuroscience and unsupervised learning methods for computer vision. As an undergraduate, I was also a research intern at [UC Irvine](https://engineering.uci.edu/dept/eecs).
 
-After graduation and before beginning my PhD, I worked as a research engineer at NYU and as a machine learning engineer, where I learned a lot about how to deploy machine learning models in production-quality software, and how to engineer scalable data pipelines.
+After graduating and before beginning my PhD, I worked as a research engineer at NYU and as a machine learning engineer, where I learned a lot about how to deploy machine learning models in production-quality software, and how to engineer scalable data pipelines.
 
 Besides my main research interests, I'm also interested in computational geometry, as well as in applications of functional analysis and differential geometry to machine learning. I enjoy teaching others about what I've learned and was previously a TA at Berkeley.
 
 In my free time (which is unfortunately very limited nowadays), I like to cook: recently I've been into Italian. Also, I play the violin as a hobby. 
 
-If you are a PhD student or postdoc at KAIST with overlapping research interests, and you want to collaborate with me on a research project, you are welcome to email me at lchen64@kaist.ac.kr or lchen64@berkeley.edu
+If you are a PhD student or postdoc at KAIST with overlapping research interests, and you want to collaborate with me on a research project, you are welcome to email me at lchen64@kaist.ac.kr or lchen64@berkeley.edu.
 
 
 ---
@@ -40,6 +40,8 @@ Course Notes
 * EE222: Nonlinear Systems: Analysis, Stability and Control (UC Berkeley Graduate Course): [PDF](https://lchen64.github.io/files/EE222(NonlinearSystems).pdf)
 
 * EECS 225A: Statistical Signal Processing (UC Berkeley Graduate Course): [PDF](https://lchen64.github.io/files/EECS225A(StatisticalSignalProcessing).pdf)
+
+* STAT 210A: 
 
 
 ---
