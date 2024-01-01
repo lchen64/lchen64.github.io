@@ -54,4 +54,4 @@ Awards
 * UC Berkeley Undergraduate Research Fellowship
 * Upsilon Pi Epsilon National Computer Science Honors Society: UC Berkeley Chapter
 * UC Berkeley Mathematics Major Departmental Honors
-* KAIST Presidential PhD Scholarship: Awarded to Top International PhD Applicant by Department
+* KAIST Presidential PhD Scholarship: Awarded by KAIST to Top PhD Applicant by Department
