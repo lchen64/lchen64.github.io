@@ -50,6 +50,7 @@ Awards
 
 * Regents’ and Chancellors’ Scholar: Awarded to Top 1.5% of Incoming UC Berkeley Undergraduates
 * Regents’ and Chancellors’ Research Scholarship: UC Berkeley
+* UC Berkeley Deans' Honors List 
 * UC Berkeley Undergraduate Research Fellowship
 * Upsilon Pi Epsilon National Computer Science Honors Society: UC Berkeley Chapter
 * UC Berkeley Mathematics Major Departmental Honors
