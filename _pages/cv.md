@@ -146,12 +146,12 @@ EE225A
 References
 ======
 * [Sungju Hwang](www.sungjuhwang.com), Endowed Chair Professor, KAIST AI Graduate School & School of Computing 
-  * PhD Advisor
+  * _PhD advisor_
   * Email: sjhwang82@kaist.ac.kr
 * [Nikhil Srivastava](https://math.berkeley.edu/~nikhil/), Professor of Mathematics, UC Berkeley & Senior Scientist, [Simons Institute for Theory of Computing](https://simons.berkeley.edu/homepage) 
-  * Undergraduate Advisor
+  * _Undergraduate advisor_
   * Email: nikhil@math.berkeley.edu
 * [James Powell](https://eml.berkeley.edu//~powell/index.shtml), Distinguished Professor Emeritus, UC Berkeley
-  * Undergraduate Advisor 
+  * _Undergraduate advisor_
   * Email: jlpowell@arizona.edu
 
