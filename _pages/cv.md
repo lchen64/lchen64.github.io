@@ -139,5 +139,6 @@ EE225A
 
 References
 ======
-* Sungju Hwang, Endowed Chair Professor, KAIST AI Graduate School & School of Computing 
-Email: sjhwang82@kaist.ac.kr
+* [Sungju Hwang](sungjuhwang.com), Endowed Chair Professor, KAIST AI Graduate School & School of Computing (sjhwang82@kaist.ac.kr)
+* [Nikhil Srivastava](https://math.berkeley.edu/~nikhil/), Professor of Mathematics, UC Berkeley and Senior Scientist, Simons Institute for Theory of Computing (nikhil@math.berkeley.edu)
+
