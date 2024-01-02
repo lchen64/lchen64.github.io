@@ -66,6 +66,7 @@ Publications
    L Chen - bioRxiv, 2019 (Preprint)
  * Compression of Spatiotemporal Deep Learning Frameworks for Characterizing Visual Cortex Responses to Natural Movies <br />
    L Chen, R Abbasi-Asl (In Prep)
+
   
 Teaching
 ======
@@ -135,3 +136,8 @@ EE226A
 
 * Statistical Signal Processing
 EE225A
+
+References
+======
+* Sungju Hwang, Endowed Chair Professor, KAIST AI Graduate School & School of Computing 
+Email: sjhwang82@kaist.ac.kr
