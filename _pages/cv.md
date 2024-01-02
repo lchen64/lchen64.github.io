@@ -47,7 +47,7 @@ Research Experience
   
 * Fall 2017 - Fall 2018: Undergraduate Research Assistant
   * [Berkeley Artificial Intelligence Research Lab](bair.berkeley.edu): [Gallant Lab](https://gallantlab.org/)
-  * Supervisor: Chancellor's Professor Jack Gallant and [Professor Reza Abbasi-Asl](https://abbasilab.org/)
+  * Supervisor: Chancellor's Professor Jack Gallant
   
 Skills
 ================
