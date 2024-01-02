@@ -63,15 +63,15 @@ Skills
 Publications
 ======
  * Feature Augmented Hybrid CNN for Stress Recognition Using Wrist-based Photoplethysmography Sensor <br />
-   N Rashid, L Chen, M Dautta, A Jimenez, P Tseng, MA Al Faruque - IEEE Engineering in Medicine & Biology Society
+   N Rashid, **L Chen**, M Dautta, A Jimenez, P Tseng, MA Al Faruque - IEEE Engineering in Medicine & Biology Society
  * Neural Contextual Bandits-Based Dynamic Sensor Selection for Low-Power Body-Area Networks <br />
-   BU Demirel, L Chen, MA Al Faruque - Proceedings of the ACM/IEEE International Symposium on Low Power Electronics and Design
+   BU Demirel, **L Chen**, MA Al Faruque - Proceedings of the ACM/IEEE International Symposium on Low Power Electronics and Design
  * Software and Hardware Systems for Autonomous Smart Parking Accommodating both Traditional and Autonomous Vehicles <br />
-   MA Al Faruque, M Odema, L Chen - Pacific Southwest Region University Transportation Center
+   MA Al Faruque, M Odema, **L Chen** - Pacific Southwest Region University Transportation Center
  * An Evaluation of Representational Similarity Analysis for Model Selection and Assessment in Computational Neuroscience <br />
-   L Chen - bioRxiv (Preprint)
+  **L Chen** - bioRxiv (Preprint)
  * Compression of Spatiotemporal Deep Learning Frameworks for Characterizing Visual Cortex Responses to Natural Movies <br />
-   L Chen, R Abbasi-Asl, JL Gallant (In Prep)
+   **L Chen**, R Abbasi-Asl, JL Gallant (In Prep)
 
   
 Teaching
