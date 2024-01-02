@@ -65,7 +65,7 @@ Publications
  * An Evaluation of Representational Similarity Analysis for Model Selection and Assessment in Computational Neuroscience <br />
    L Chen - bioRxiv, 2019 (Preprint)
  * Compression of Spatiotemporal Deep Learning Frameworks for Characterizing Visual Cortex Responses to Natural Movies <br />
-   L Chen, R Abbasi-Asl (In Prep)
+   L Chen, R Abbasi-Asl, JL Gallant (In Prep)
 
   
 Teaching
