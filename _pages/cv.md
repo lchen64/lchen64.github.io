@@ -145,7 +145,7 @@ References
 * [Nikhil Srivastava](https://math.berkeley.edu/~nikhil/), Professor of Mathematics, UC Berkeley & Senior Scientist, [Simons Institute for Theory of Computing](https://simons.berkeley.edu/homepage) 
   * Undergraduate Advisor
   * Email: nikhil@math.berkeley.edu
-* [James Powell](https://eml.berkeley.edu//~powell/index.html), Distinguished Professor Emeritus, UC Berkeley
-  * Undergraduate Advisor
+* [James Powell](https://eml.berkeley.edu//~powell/index.shtml), Distinguished Professor Emeritus, UC Berkeley
+  * Undergraduate Advisor 
   * Email: jlpowell@arizona.edu
 
