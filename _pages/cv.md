@@ -65,6 +65,8 @@ Skills
 
 Publications
 ======
+* Compression of Spatiotemporal Deep Learning Frameworks for Characterizing Visual Cortex Responses to Natural Movies <br />
+   **L Chen**, R Abbasi-Asl, JL Gallant (In Prep)
  * Feature Augmented Hybrid CNN for Stress Recognition Using Wrist-based Photoplethysmography Sensor <br />
    N Rashid, **L Chen**, M Dautta, A Jimenez, P Tseng, MA Al Faruque - IEEE Engineering in Medicine & Biology Society
  * Neural Contextual Bandits-Based Dynamic Sensor Selection for Low-Power Body-Area Networks <br />
@@ -73,14 +75,12 @@ Publications
    MA Al Faruque, M Odema, **L Chen** - Pacific Southwest Region University Transportation Center
  * An Evaluation of Representational Similarity Analysis for Model Selection and Assessment in Computational Neuroscience <br />
   **L Chen** - bioRxiv (Preprint)
- * Compression of Spatiotemporal Deep Learning Frameworks for Characterizing Visual Cortex Responses to Natural Movies <br />
-   **L Chen**, R Abbasi-Asl, JL Gallant (In Prep)
-
+ 
   
 Teaching
 ======
-* Previous:
-  Teaching Assistant for CS 61B: Data Structures and Algorithms (UC Berkeley)
+* Previous: Teaching Assistant for CS 61B: Data Structures and Algorithms (UC Berkeley)
+  * Instructor: Professor Paul Hilfinger
 
 # Coursework Completed (UC Berkeley)
 
