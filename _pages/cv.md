@@ -45,7 +45,7 @@ Research Experience
   * Supervisor: [Professor Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/)
 
 * Summer Undergraduate Research Intern
-  * UC Irvine
+  * [UC Irvine](https://engineering.uci.edu/dept/eecs)
   * Worked on applications of machine learning/deep learning
   
 * Fall 2017 - Fall 2018: Undergraduate Research Assistant
