@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ============
-* Ph.D in Artificial Intelligence, [KAIST](https://gsai.kaist.ac.kr/), August 2023 - Present
-  * Research Area: Machine Learning
+* Ph.D in Artificial Intelligence (Machine Learning), [KAIST](https://gsai.kaist.ac.kr/), August 2023 - Present
+  * Research Area: AutoML, Computer Vision, Diffusion Models
   * Advisor: [Sungju Hwang](http://www.sungjuhwang.com)
 * M.S. (Honors) in [Electrical and Computer Engineering](https://engineering.jhu.edu/ece/), Johns Hopkins University, 2023
   * Advisor: [Trac. D Tran](https://thanglong.ece.jhu.edu)
