@@ -24,7 +24,7 @@ If you are a PhD student or postdoc at KAIST with overlapping research interests
 
 
 ---
-Math/Statistics Notes
+Mathematics/Statistics Notes
 ---
 
 * Stochastic Processes: [PDF](https://lchen64.github.io/files/Stochastic_Processes.pdf)
@@ -32,6 +32,8 @@ Math/Statistics Notes
 * Measure Theory and Lebesgue Integration: [PDF](https://lchen64.github.io/files/MeasureAndIntegration.pdf)
 
 * High-Dimensional Statistics and the Johnson-Lindenstrauss Embedding [PDF](https://lchen64.github.io/files/JohnsonLindenstrauss.pdf)
+
+* VC Dimension and Glivenko-Cantelli Theorem [PDF](https://lchen64.github.io/files/JohnsonLindenstrauss.pdf)
 
 ---
 Course Notes 
