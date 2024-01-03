@@ -26,7 +26,9 @@ Work Experience
   * [Samsung (SAIT) AI Lab](https://www.sait.samsung.co.kr/saithome/research/researchArea.do?idx=14)
   * AutoML, Graph Neural Networks, Neural Architecture Search
   * Hosted by [Boris Knyazev](https://bknyaz.github.io/)
-
+    
+* Machine Learning Engineer (January 2022 - January 2023)
+  * Worked on end-to-end machine learning pipeline construction using Spark, HDFS, AWS Sagemaker, improved ETL pipelines, used Bayesian hyperparameter optimization on existing models
     
 Research Experience
 ===================
@@ -81,68 +83,30 @@ Teaching
   Teaching Assistant for CS 61B: Data Structures and Algorithms (UC Berkeley)
 
 # Coursework Completed (UC Berkeley)
+
 ## Undergraduate
-* Abstract Algebra
-MATH113
-
-* Algorithms and Complexity Theory
-CS170
-
-* Complex Analysis
-MATH185
-
-* Data Structures
-CS61B
-
-* Machine Structures
-CS61C
-
-* Honors Multivariable Calculus
-MATHH53
-
-* Linear Systems & Signals
-EE16B
-
-* Machine Learning
-CS189
-
-* Numerical Analysis
-MATH128A
-
-* Operating Systems and Systems Programming
-CS162
-
-* Probability Theory
-STAT134
-
-* Real Analysis
-MATH104
-
-* Linear Algebra
-MATH110
+* Abstract Algebra (MATH113)
+* Algorithms and Complexity Theory (CS170)
+* Complex Analysis (MATH185)
+* Data Structures (CS61B)
+* Machine Structures (CS61C)
+* Honors Multivariable Calculus (MATHH53)
+* Linear Systems & Signals (EE16B)
+* Machine Learning (CS189)
+* Numerical Analysis (MATH128A)
+* Operating Systems and Systems Programming (CS162)
+* Probability Theory (STAT134)
+* Real Analysis (MATH104)
+* Linear Algebra (MATH110)
 
 ## Graduate 
-
-* Combinatorial Algorithms and Optimization
-CS270
-
-* Information Theory
-EE229A
-
-* Mathematical Statistics
-STAT210A
-
-* Measure Theory and Topology
-MATH202A
-
-* Nonlinear Systems Theory
-EE222
-
-* Stochastic Processes in Systems
-EE226A
-
-* Statistical Signal Processing
-EE225A
+* Combinatorial Algorithms and Optimization (CS270)
+* Information Theory (EE229A)
+* Mathematical Statistics (STAT210A)
+* Measure Theory and Topology (MATH202A)
+* Nonlinear Systems Theory (EE222)
+* Stochastic Processes in Systems (EE226A)
+* Statistical Signal Processing (EE225A)
 
 References
 ======
@@ -155,4 +119,3 @@ References
 * [James Powell](https://eml.berkeley.edu//~powell/index.shtml), Distinguished Professor Emeritus, UC Berkeley
   * _Undergraduate Advisor_
   * Email: jlpowell@arizona.edu
-
