@@ -33,7 +33,7 @@ Mathematics/Statistics Notes
 
 * High-Dimensional Statistics and the Johnson-Lindenstrauss Embedding [PDF](https://lchen64.github.io/files/JohnsonLindenstrauss.pdf)
 
-* VC Dimension and Glivenko-Cantelli Theorem [PDF](https://lchen64.github.io/files/JohnsonLindenstrauss.pdf)
+* VC Dimension and Glivenko-Cantelli Theorem [PDF](https://lchen64.github.io/files/VC.pdf)
 
 ---
 Course Notes 
