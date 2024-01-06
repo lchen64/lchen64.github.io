@@ -66,7 +66,7 @@ Skills
 Publications
 ======
 * Compression of Spatiotemporal Deep Learning Frameworks for Characterizing Visual Cortex Responses to Natural Movies <br />
-   **L Chen**, R Abbasi-Asl, JL Gallant (In Prep)
+   **L Chen**, U Hasson, JL Gallant (In Prep)
  * Feature Augmented Hybrid CNN for Stress Recognition Using Wrist-based Photoplethysmography Sensor <br />
    N Rashid, **L Chen**, M Dautta, A Jimenez, P Tseng, MA Al Faruque - IEEE Engineering in Medicine & Biology Society
  * Neural Contextual Bandits-Based Dynamic Sensor Selection for Low-Power Body-Area Networks <br />
