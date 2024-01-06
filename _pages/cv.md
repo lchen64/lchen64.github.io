@@ -119,3 +119,6 @@ References
 * [James Powell](https://eml.berkeley.edu//~powell/index.shtml), Distinguished Professor Emeritus, UC Berkeley
   * _Undergraduate Advisor_
   * Email: jlpowell@arizona.edu
+* [Uri Hasson](http://www.hasson.org/), Professor, University of Trento
+  * _Research Collaborator_
+  * Email: uri.hasson@unitn.it
