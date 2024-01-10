@@ -69,7 +69,9 @@ Publications
    **L Chen**, U Hasson, JL Gallant (In Prep)
  * Feature Augmented Hybrid CNN for Stress Recognition Using Wrist-based Photoplethysmography Sensor <br />
    N Rashid, **L Chen**, M Dautta, A Jimenez, P Tseng, MA Al Faruque - IEEE Engineering in Medicine & Biology Society
-* Hardware Trojan detection using Graph Neural Networks <br />
+* Data-driven Energy-efficient Adaptive Sampling Using Deep Reinforcement Learning
+   BU Demirel, **L Chen**, MA Al Faruque - ACM Transactions on Computing for Healthcare
+* Hardware Trojan Detection using Graph Neural Networks <br />
   Y Rozhin, **C Luke**, Y Shih-Yuan, FMA Al - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
  * Neural Contextual Bandits-Based Dynamic Sensor Selection for Low-Power Body-Area Networks <br />
    BU Demirel, **L Chen**, MA Al Faruque - Proceedings of the ACM/IEEE International Symposium on Low Power Electronics and Design
