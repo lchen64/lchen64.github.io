@@ -74,7 +74,7 @@ Publications
 * Hardware Trojan Detection using Graph Neural Networks <br />
   Y Rozhin, **C Luke**, Y Shih-Yuan, FMA Al - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
 * DOMINO: Domain-Invariant Hyperdimensional Classification for Multi-Sensor Time Series Data
-  J Wang, L Chen, MA Al Faruque - IEEE/ACM International Conference on Computer Aided Design (ICCAD)
+  J Wang, **L Chen**, MA Al Faruque - IEEE/ACM International Conference on Computer Aided Design (ICCAD)
  * Neural Contextual Bandits-Based Dynamic Sensor Selection for Low-Power Body-Area Networks <br />
    BU Demirel, **L Chen**, MA Al Faruque - Proceedings of the ACM/IEEE International Symposium on Low Power Electronics and Design
  * Software and Hardware Systems for Autonomous Smart Parking Accommodating both Traditional and Autonomous Vehicles <br />
