@@ -91,7 +91,7 @@ Teaching
 # PhD Coursework (KAIST)
 
 * Adaptive Signal Processing (EE731)
-* Riemmanian Geometry (MAS520)
+* Geometric Topology (MAS630) 
 
 # Coursework Completed (UC Berkeley)
 
