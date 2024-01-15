@@ -88,10 +88,13 @@ Teaching
 * Previous: Teaching Assistant for CS 61B: Data Structures and Algorithms (UC Berkeley)
   * Instructor: Professor Paul Hilfinger
 
-# PhD Coursework (KAIST)
+# PhD Level Coursework (KAIST)
 
+* Advanced Topics in Deep Reinforcement Learning (AI707)
+* Advanced Deep Learning Theory (AI709)
 * Adaptive Signal Processing (EE731)
-* Geometric Topology (MAS630) 
+* Riemannian Geometry (MATH621)
+* Geometric Topology (MATH630)
 
 # Coursework Completed (UC Berkeley)
 
