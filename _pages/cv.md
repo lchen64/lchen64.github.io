@@ -88,6 +88,11 @@ Teaching
 * Previous: Teaching Assistant for CS 61B: Data Structures and Algorithms (UC Berkeley)
   * Instructor: Professor Paul Hilfinger
 
+# PhD Coursework (KAIST)
+
+* Adaptive Signal Processing (EE731)
+* Riemmanian Geometry (MAS520)
+
 # Coursework Completed (UC Berkeley)
 
 ## Undergraduate
