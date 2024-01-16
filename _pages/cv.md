@@ -16,9 +16,12 @@ Education
   * Advisor: [Sungju Hwang](http://www.sungjuhwang.com)
 * M.S. (Highest Honors) in [Electrical and Computer Engineering](https://engineering.jhu.edu/ece/), Johns Hopkins University, 2023
   * Advisor: [Trac. D Tran](https://thanglong.ece.jhu.edu)
+  * Thesis: Limitations of Reprsentational Similarity Analysis for Model Selection
+  * GPA: 4.0/4.0
 * B.A. (High Honors) in [Mathematics](https://math.berkeley.edu/), [Computer Science](https://eecs.berkeley.edu/), UC Berkeley, 2019 
   * Advisors: [Bruno Olshausen]( https://redwood.berkeley.edu/people/bruno-olshausen/) and [Jack Gallant](https://gallantlab.org/)
   * Thesis: Improved Neuronal Synchrony in Complex-Valued Autoencoders for Visual Feature Binding
+  * Major GPA: 3.95/4.00
 
 Work Experience
 ================
