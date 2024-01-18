@@ -20,7 +20,7 @@ Education
   * GPA: 4.00/4.00
 * Bachelor's with High Honors (Magna Cum Laude) in [Mathematics](https://math.berkeley.edu/) and [Computer Science](https://eecs.berkeley.edu/), UC Berkeley, 2019 
   * Advisors: [Bruno Olshausen]( https://redwood.berkeley.edu/people/bruno-olshausen/) and [Jack Gallant](https://gallantlab.org/)
-  * Thesis: Improved Neuronal Synchrony in Complex-Valued Autoencoders for Visual Feature Binding
+  * Thesis: Improved Neuronal Synchrony in Complex-Valued Autoencoders to Approach the Neural Binding Hypothesis for Visual Features
   * Major GPA: 3.95/4.00
 
 Work Experience
