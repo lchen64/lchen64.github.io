@@ -133,6 +133,9 @@ References
 * [Thomas Serre](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/people/faculty/thomas-serre), Professor of Computer Science, Brown University
   * _Research Advisor_
   * Email: thomas_serre@brown.edu
+* [Drew Linsley](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/people/faculty/thomas-serre), Assistant Professor of Research, Brown University
+  * _Research Collaborator_
+  * Email: drew_linsley@brown.edu
 * [Nikhil Srivastava](https://math.berkeley.edu/~nikhil/), Professor of Mathematics, UC Berkeley & Senior Scientist, [Simons Institute for Theory of Computing](https://simons.berkeley.edu/homepage) 
   * _Undergraduate Advisor_
   * Email: nikhil@math.berkeley.edu
