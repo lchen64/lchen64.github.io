@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ============
-* Ph.D in Artificial Intelligence (Machine Learning), [KAIST](https://gsai.kaist.ac.kr/), August 2023 - Present
+* Ph.D in Machine Learning, [KAIST](https://gsai.kaist.ac.kr/), August 2023 - Present
   * Research Area: AutoML, Computer Vision, Diffusion Models
   * Advisor: [Sungju Hwang](http://www.sungjuhwang.com)
 * M.S. with Highest Honors in [Electrical and Computer Engineering](https://engineering.jhu.edu/ece/), Johns Hopkins University, 2023
@@ -69,17 +69,19 @@ Skills
 Publications
 ======
 * Compression of Spatiotemporal Deep Learning Frameworks for Characterizing Visual Cortex Responses to Natural Movies <br />
-   **L Chen**, U Hasson, JL Gallant (In Prep)
+   **L Chen**, U Hasson (In Prep)
  * Feature Augmented Hybrid CNN for Stress Recognition Using Wrist-based Photoplethysmography Sensor <br />
    N Rashid, **L Chen**, M Dautta, A Jimenez, P Tseng, MA Al Faruque - IEEE Engineering in Medicine & Biology Society
 * Data-driven Energy-efficient Adaptive Sampling Using Deep Reinforcement Learning <br />
    BU Demirel, **L Chen**, MA Al Faruque - ACM Transactions on Computing for Healthcare
+* Romanus: Robust Task Offloading in Modular Multi-sensor Autonomous Driving Systems <br />
+  **L Chen**, M Odema, MA Al Faruque - IEEE/ACM International Conference on Computer-Aided Design
 * Hardware Trojan Detection using Graph Neural Networks <br />
   Y Rozhin, **C Luke**, Y Shih-Yuan, FMA Al - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
 * DOMINO: Domain-Invariant Hyperdimensional Classification for Multi-Sensor Time Series Data
   J Wang, **L Chen**, MA Al Faruque - IEEE/ACM International Conference on Computer Aided Design (ICCAD)
  * Neural Contextual Bandits-Based Dynamic Sensor Selection for Low-Power Body-Area Networks <br />
-   BU Demirel, **L Chen**, MA Al Faruque - Proceedings of the ACM/IEEE International Symposium on Low Power Electronics and Design
+   BU Demirel, **L Chen**, MA Al Faruque - ACM/IEEE International Symposium on Low Power Electronics and Design
  * Software and Hardware Systems for Autonomous Smart Parking Accommodating both Traditional and Autonomous Vehicles <br />
    MA Al Faruque, M Odema, **L Chen** - Pacific Southwest Region University Transportation Center
  * An Evaluation of Representational Similarity Analysis for Model Selection and Assessment in Computational Neuroscience <br />
