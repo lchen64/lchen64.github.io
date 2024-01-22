@@ -132,12 +132,9 @@ References
 * [Sungju Hwang](www.sungjuhwang.com), Endowed Chair Professor, KAIST AI Graduate School & School of Computing 
   * _PhD Advisor_
   * Email: sjhwang82@kaist.ac.kr
-* [Thomas Serre](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/people/faculty/thomas-serre), Professor of Computer Science, Brown University
+* [Thomas Serre](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/people/faculty/thomas-serre), Professor, Computer Science and Cognitive Linguistic & Psychological Sciences, Brown University
   * _Research Advisor_
   * Email: thomas_serre@brown.edu
-* [Drew Linsley](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/people/faculty/thomas-serre), Assistant Professor of Research, Brown University
-  * _Research Collaborator_
-  * Email: drew_linsley@brown.edu
 * [Nikhil Srivastava](https://math.berkeley.edu/~nikhil/), Professor of Mathematics, UC Berkeley & Senior Scientist, [Simons Institute for Theory of Computing](https://simons.berkeley.edu/homepage) 
   * _Undergraduate Advisor_
   * Email: nikhil@math.berkeley.edu
