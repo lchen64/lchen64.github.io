@@ -10,7 +10,16 @@ redirect_from:
 
 Thanks for stopping by!
 
-I am a PhD Student in Machine Learning at [KAIST](https://gsai.kaist.ac.kr/) with a background in statistical learning, information theory, and optimization. My research interests span image processing/computer vision, statistical signal processing, diffusion models, and automated machine learning. I am very fortunate to be advised by [Sungju Hwang](http://www.sungjuhwang.com), and I am extremely grateful to have my research supported by the KAIST Presidential PhD Scholarship. I also collaborate closely with the [Samsung AI Research Lab](https://www.sait.samsung.co.kr/saithome/research/researchArea.do?idx=14). Recently, I have been focusing on combining approaches from graph representation learning and stable diffusion models to generate neural network weights in a resource-efficient manner.
+I am a PhD Student in Machine Learning at [KAIST](https://gsai.kaist.ac.kr/) with a background in statistical learning, optimization, and information theory.
+My research interests are broad and include:
+* Image/Video Processing
+* Representation Learning
+* Statistical Signal Processing
+* Diffusion Models
+* Automated Machine Learning
+* Computational Neuroscience & Neuroscience-Inspired Computer Vision
+
+I am very fortunate to be advised by [Sungju Hwang](http://www.sungjuhwang.com), and I am extremely grateful to have my research supported by the KAIST Presidential PhD Scholarship. I also collaborate closely with the [Samsung AI Research Lab](https://www.sait.samsung.co.kr/saithome/research/researchArea.do?idx=14). Recently, I have been focusing on combining approaches from graph representation learning and stable diffusion models to generate neural network weights in a resource-efficient manner.
 
 Previously, I graduated from UC Berkeley with High Honors with majors from the [Mathematics Department](https://math.berkeley.edu/) and [Electrical Engineering and Computer Science Department](https://eecs.berkeley.edu), where I had the pleasure of being advised by [Prof Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/) and [Prof Jack Gallant](https://gallantlab.org/) in the [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/) in my undergraduate research. There, I worked on theoretical visual neuroscience and unsupervised learning methods for computer vision. As an undergraduate, I was also a research intern at [UC Irvine](https://engineering.uci.edu/dept/eecs).
 
