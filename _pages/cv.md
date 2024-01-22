@@ -69,7 +69,9 @@ Skills
 Publications
 ======
 * Compression of Spatiotemporal Deep Learning Frameworks for Characterizing Visual Cortex Responses to Natural Movies <br />
-   **L Chen**, U Hasson (In Prep)
+   **L Chen**, U Hasson (In Preparation)
+* Untangling Causality and Complexity in Prefrontal Cortex during Dynamic Tasks by Cross Embedding <br />
+  **L Chen**, GM Pao, G Sugihara (In Preparation)
  * Feature Augmented Hybrid CNN for Stress Recognition Using Wrist-based Photoplethysmography Sensor <br />
    N Rashid, **L Chen**, M Dautta, A Jimenez, P Tseng, MA Al Faruque - IEEE Engineering in Medicine & Biology Society
 * Data-driven Energy-efficient Adaptive Sampling Using Deep Reinforcement Learning <br />
@@ -90,8 +92,10 @@ Publications
   
 Teaching
 ======
-* Previous: Teaching Assistant for CS 61B: Data Structures and Algorithms (UC Berkeley)
-  * Instructor: Professor Paul Hilfinger
+* Previous: 
+  * Teaching Assistant for CS61B: Data Structures and Algorithms (UC Berkeley)
+    * Instructor: Paul Hilfinger
+  * Teaching Assistant for MATH54 : Linear Algebra and Differential Equations (UC Berkeley)
 
 # PhD Level Coursework (KAIST)
 
