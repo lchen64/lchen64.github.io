@@ -133,18 +133,19 @@ Teaching
 
 References
 ======
-* [Sungju Hwang](www.sungjuhwang.com), Endowed Chair Professor, KAIST AI Graduate School & School of Computing 
+* [Sungju Hwang](www.sungjuhwang.com), Endowed Chair Professor, KAIST AI Graduate School & KAIST School of Computing 
   * _PhD Advisor_
   * Email: sjhwang82@kaist.ac.kr
-* [Thomas Serre](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/people/faculty/thomas-serre), Professor, Computer Science, Cognitive Linguistic & Psychological Sciences, Brown University
+* [Ercan Kuruoglu](https://ercanenginkuruoglu.github.io/), Full Professor of Data Science, Tsinghua-Berkeley, PI, Time-Varying Data Science Group
   * _Research Collaborator_
-  * Email: thomas_serre@brown.edu
+  * Email: kuruoglu@sz.tsinghua.cn
+* [Uri Hasson](http://www.hasson.org/), Professor, University of Trento
+  * _Research Collaborator_
+  * Email: uri.hasson@unitn.it
 * [Nikhil Srivastava](https://math.berkeley.edu/~nikhil/), Professor of Mathematics, UC Berkeley & Senior Scientist, [Simons Institute for Theory of Computing](https://simons.berkeley.edu/homepage) 
   * _Undergraduate Advisor_
   * Email: nikhil@math.berkeley.edu
 * [James Powell](https://eml.berkeley.edu//~powell/index.shtml), Distinguished Professor Emeritus, UC Berkeley
   * _Undergraduate Advisor_
   * Email: jlpowell@arizona.edu
-* [Uri Hasson](http://www.hasson.org/), Professor, University of Trento
-  * _Research Collaborator_
-  * Email: uri.hasson@unitn.it
+
