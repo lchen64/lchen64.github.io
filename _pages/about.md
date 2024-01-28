@@ -21,15 +21,15 @@ My research interests are broad and include:
 
 I am very fortunate to be advised by [Sungju Hwang](http://www.sungjuhwang.com), and I am extremely grateful to have my research supported by the KAIST Presidential PhD Scholarship. I also collaborate closely with the [Samsung AI Research Lab](https://www.sait.samsung.co.kr/saithome/research/researchArea.do?idx=14). Recently, I have been focusing on combining approaches from graph representation learning and stable diffusion models to generate neural network weights in a resource-efficient manner.
 
-Previously, I graduated from UC Berkeley with High Honors with majors from the [Mathematics Department](https://math.berkeley.edu/) and [Electrical Engineering and Computer Science Department](https://eecs.berkeley.edu), where I had the pleasure of being advised by [Prof Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/) and [Prof Jack Gallant](https://gallantlab.org/) in the [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/) in my undergraduate research. There, I worked on theoretical visual neuroscience and unsupervised learning methods for computer vision. As an undergraduate, I was also a research intern at [UC Irvine](https://engineering.uci.edu/dept/eecs).
+Previously, I graduated from UC Berkeley with High Honors with majors from the [Mathematics Department](https://math.berkeley.edu/) and [Electrical Engineering and Computer Science Department](https://eecs.berkeley.edu), where I had the pleasure of being advised by [Prof Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/) and [Prof Jack Gallant](https://gallantlab.org/) in the [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/). There I worked on theoretical visual neuroscience and unsupervised learning methods for computer vision. As an undergraduate, I was also a research intern at [UC Irvine](https://engineering.uci.edu/dept/eecs).
 
-After graduating and before beginning my PhD, I worked as a research engineer at NYU and as a machine learning engineer, where I learned more about how to deploy machine learning in production-quality software, and how to engineer scalable data pipelines.
+After graduating and before beginning my PhD, I worked as a machine learning engineer, where I learned more about how to deploy machine learning in production-quality software, and how to engineer scalable data pipelines.
 
-Besides my main research interests, I'm also interested in computational geometry, as well as in applications of functional analysis and differential geometry to machine learning. I enjoy teaching others about what I've learned and was previously a TA at Berkeley.
+Besides my main research interests, I'm also interested in computational geometry, as well as in applications of functional analysis and differential geometry to machine learning.
 
-In my free time (which is unfortunately very limited nowadays), I like to cook: recently I've been into Italian. Also, I play the violin as a hobby. 
+In my free time (which is unfortunately very limited), I like to cook: recently I've been into Italian. Also, I play the violin as a hobby. 
 
-If you are a PhD student or postdoc at KAIST with overlapping research interests, and you want to collaborate with me on a research project, you are welcome to email me at lchen64@kaist.ac.kr or lchen64@berkeley.edu.
+If you have overlapping research interests and want to collaborate on a research project, you're welcome to email me at lchen64@kaist.ac.kr or lchen64@berkeley.edu.
 
 
 ---
