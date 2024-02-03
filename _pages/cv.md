@@ -95,7 +95,7 @@ Teaching
     * Instructor: Paul Hilfinger
   * Teaching Assistant for MATH54 : Linear Algebra and Differential Equations (UC Berkeley)
 
-# PhD Level Coursework (KAIST)
+# Graduate Coursework (KAIST)
 
 * Advanced Topics in Deep Reinforcement Learning (AI707)
 * Advanced Deep Learning Theory (AI709)
