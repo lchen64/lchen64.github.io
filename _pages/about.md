@@ -19,7 +19,7 @@ My research interests are broad and include:
 * Diffusion Models
 * Computational Neuroscience & Neuroscience-Inspired Computer Vision
 
-I am very fortunate to have my research supported by the KAIST Presidential PhD Scholarship. I also collaborate closely with the [Samsung AI Research Lab](https://www.sait.samsung.co.kr/saithome/research/researchArea.do?idx=14). Recently, I have been focusing on combining approaches from graph representation learning and stable diffusion to generate neural network parameters.
+I am very fortunate to have my research supported by the KAIST Presidential PhD Scholarship. I also collaborate with the [Samsung AI Research Lab](https://www.sait.samsung.co.kr/saithome/research/researchArea.do?idx=14). Recently, I have been focusing on combining approaches from graph representation learning and stable diffusion to generate neural network parameters.
 
 Previously, I graduated from UC Berkeley with High Honors with majors from the [Mathematics Department](https://math.berkeley.edu/) and [Electrical Engineering and Computer Science Department](https://eecs.berkeley.edu), where I had the pleasure of being advised by [Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/) and [Jack Gallant](https://gallantlab.org/) in the [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/). There I worked on theoretical visual neuroscience and unsupervised learning methods for computer vision. I was also an undergrad research intern at [UC Irvine](https://engineering.uci.edu/dept/eecs).
 
