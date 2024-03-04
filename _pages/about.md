@@ -17,7 +17,6 @@ My research interests are broad and include:
 * Graph Representation Learning
 * Statistical Signal Processing
 * Diffusion Models
-* Automated Machine Learning
 * Computational Neuroscience & Neuroscience-Inspired Computer Vision
 
 I am very fortunate to have my research supported by the KAIST Presidential PhD Scholarship. I also collaborate closely with the [Samsung AI Research Lab](https://www.sait.samsung.co.kr/saithome/research/researchArea.do?idx=14). Recently, I have been focusing on combining approaches from graph representation learning and stable diffusion to generate neural network parameters.
