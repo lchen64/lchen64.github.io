@@ -10,7 +10,7 @@ redirect_from:
 
 Thanks for stopping by!
 
-I'm a PhD Student in Machine Learning at [KAIST](https://gsai.kaist.ac.kr/). I am very fortunate to be advised by [Sungju Hwang](http://www.sungjuhwang.com/) and to have my research supported by the KAIST Presidential PhD Scholarship. I also collaborate with the [Samsung AI Research Lab](https://www.sait.samsung.co.kr/saithome/research/researchArea.do?idx=14). Recently, I have been combining approaches from graph representation learning and stable diffusion to generate neural network parameters.
+I'm a PhD Student in Machine Learning at [KAIST](https://gsai.kaist.ac.kr/). I am very fortunate to be advised by [Sungju Hwang](http://www.sungjuhwang.com/) and to have my research supported by the KAIST Presidential PhD Scholarship. I also collaborate closely with the [Samsung AI Research Lab](https://www.sait.samsung.co.kr/saithome/research/researchArea.do?idx=14). Recently, I have been combining approaches from graph representation learning and stable diffusion to generate neural network parameters.
 
 
 My research interests are broad and include:
@@ -27,7 +27,7 @@ After graduating and before beginning my PhD, I worked as a machine learning eng
 
 Besides my research, I also take interest in the applications of functional analysis and differential geometry to machine learning.
 
-In my free time (which is very limited...) I like to cook: recently I've been into Italian. 
+In my free time (which is very limited...) I like to cook. Recently I've been into Italian. 
 
 If you're interested in what I do and want to chat, you're welcome to email me! Suggestions for pasta recipes/cooking techniques are welcome too! :) 
 
