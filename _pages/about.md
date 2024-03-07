@@ -27,9 +27,9 @@ After graduating and before beginning my PhD, I worked as a machine learning eng
 
 Besides my research, I also take interest in the applications of functional analysis and differential geometry to machine learning.
 
-In the little free time I have I like to cook: recently I've been into Italian.
+In my free time (which is very limited...) I like to cook: recently I've been into Italian. 
 
-If you're interested in what I do and want to chat, you're welcome to email me!
+If you're interested in what I do and want to chat, you're welcome to email me! Suggestions for pasta recipes/cooking techniques are welcome too! :) 
 
 
 ---
