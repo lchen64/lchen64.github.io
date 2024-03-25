@@ -132,7 +132,7 @@ Teaching
 References
 ======
 
-* [Boris Knyazev]([https://bknyaz.github.io]), Research Scientist, Samsung AI Lab
+* [Boris Knyazev](https://bknyaz.github.io), Research Scientist, Samsung AI Lab
   * _Research Advisor_
   * Email: borknyaz@gmail.com
 * [Ercan Kuruoglu](https://ercanenginkuruoglu.github.io/), Full Professor of Data Science, Tsinghua-Berkeley, PI, Time-Varying Data Science Group
