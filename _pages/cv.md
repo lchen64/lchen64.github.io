@@ -131,9 +131,10 @@ Teaching
 
 References
 ======
-* [Sungju Hwang](www.sungjuhwang.com), Endowed Chair Professor, KAIST AI Graduate School & KAIST School of Computing 
-  * _PhD Advisor_
-  * Email: sjhwang82@kaist.ac.kr
+
+* [Boris Knyazev]([https://bknyaz.github.io]), Research Scientist, Samsung AI Lab
+  * _Research Advisor_
+  * Email: borknyaz@gmail.com
 * [Ercan Kuruoglu](https://ercanenginkuruoglu.github.io/), Full Professor of Data Science, Tsinghua-Berkeley, PI, Time-Varying Data Science Group
   * _Research Collaborator_
   * Email: kuruoglu@sz.tsinghua.cn
