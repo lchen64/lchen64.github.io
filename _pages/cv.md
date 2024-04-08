@@ -85,7 +85,7 @@ Publications
  * Software and Hardware Systems for Autonomous Smart Parking Accommodating both Traditional and Autonomous Vehicles <br />
    MA Al Faruque, M Odema, **L Chen** - Pacific Southwest Region University Transportation Center
  * An Evaluation of Representational Similarity Analysis for Model Selection and Assessment in Computational Neuroscience <br />
-  **L Chen** - bioRxiv (Preprint), Under Review (ICPRAI)
+  **L Chen** - International Conference on Pattern Recognition and Artificial Intelligence
  
   
 Teaching
