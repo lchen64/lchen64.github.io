@@ -10,7 +10,7 @@ redirect_from:
 
 Thanks for stopping by!
 
-I'm a PhD Student in Machine Learning at [KAIST](https://gsai.kaist.ac.kr/). I am very fortunate to have my research supported by the KAIST Presidential PhD Scholarship. I also collaborate closely with the [Samsung AI Research Lab](https://www.sait.samsung.co.kr/saithome/research/researchArea.do?idx=14). Recently, I have been combining approaches from graph representation learning and stable diffusion to generate neural network parameters.
+I'm a Mathematics PhD Student at [KAIST](https://mathsci.kaist.ac.kr/home/en/). I am very fortunate to have my research supported by the KAIST Presidential PhD Scholarship. I also collaborate closely with the [Samsung AI Research Lab](https://www.sait.samsung.co.kr/saithome/research/researchArea.do?idx=14). Recently, I have been combining approaches from graph representation learning and stable diffusion to generate neural network parameters.
 
 
 My research interests are broad and include:
