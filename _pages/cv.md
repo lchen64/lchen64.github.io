@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ============
-* Ph.D in Machine Learning, [KAIST](https://gsai.kaist.ac.kr/), August 2023 - Present
-  * Research Area: Computer Vision, Diffusion Models
+* Ph.D in Mathematics, [KAIST](https://mathsci.kaist.ac.kr/home/en/), August 2023 - Present
+  * Research Area: Machine Learning Theory, Computer Vision, Diffusion Models
 * M.S. with Highest Honors in [Electrical and Computer Engineering](https://engineering.jhu.edu/ece/), Johns Hopkins University, 2023
   * Thesis: Limitations of Representational Similarity Analysis for Model Selection
   * GPA: 4.00/4.00
@@ -34,8 +34,7 @@ Work Experience
 Research Experience
 ===================
 * Fall 2023 - Present : Graduate Research Assistant
-  * KAIST Graduate School of AI
-  * Advisor: [KAIST Endowed Chair Professor Sungju Hwang](sungjuhwang.com)
+  * KAIST Mathematics Department
 
 * Spring 2023 - Fall 2023 : Research Intern
   * KAIST School of Computing: [MLAI Lab](https://www.mlai-kaist.com/)
@@ -66,6 +65,7 @@ Skills
 
 Publications
 ======
+
 * Compression of Spatiotemporal Deep Learning Frameworks for Characterizing Visual Cortex Responses to Natural Movies <br />
    **L Chen**, U Hasson (In Preparation)
 * Untangling Causality and Complexity in Prefrontal Cortex during Dynamic Tasks by Cross Embedding <br />
