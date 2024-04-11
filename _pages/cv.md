@@ -99,9 +99,7 @@ Teaching
 
 * Advanced Topics in Deep Reinforcement Learning (AI707)
 * Advanced Deep Learning Theory (AI709)
-* Adaptive Signal Processing (EE731)
 * Riemannian Geometry (MATH621)
-* Geometric Topology (MATH630)
 
 # Coursework Completed (UC Berkeley)
 
