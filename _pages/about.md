@@ -15,9 +15,10 @@ I'm a Mathematics PhD Student at [KAIST](https://mathsci.kaist.ac.kr/home/en/). 
 
 My research interests are quite broad and include:
 * Image/Video Processing
-* Graph Representation Learning / Graph Diffusion Models
-* Optimization Theory
-* Computational Neuroscience-Inspired Computer Vision
+* Graph Representation Learning/Graph Diffusion Models
+* Optimization on Manifolds 
+* Dynamical Systems analysis of Optimization Algorithms
+* Theoretical Neuroscience Inspirations for Computer Vision
 
 
 Previously, I graduated from UC Berkeley with High Honors with majors from the [Mathematics Department](https://math.berkeley.edu/) and [Electrical Engineering and Computer Science Department](https://eecs.berkeley.edu), where I had the pleasure of being advised by [Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/) and [Jack Gallant](https://gallantlab.org/) in the [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/). There I worked on theoretical visual neuroscience and unsupervised learning methods for computer vision. I was also an undergrad research intern at [UC Irvine](https://engineering.uci.edu/dept/eecs).
