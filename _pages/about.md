@@ -17,7 +17,7 @@ My research interests are quite broad and include:
 * Image/Video Processing
 * Graph Representation Learning/Graph Diffusion Models
 * Optimization on Manifolds 
-* Dynamical Systems analysis of Optimization Algorithms
+* Dynamical Systems Analysis of Optimization Algorithms
 * Theoretical Neuroscience Inspirations for Computer Vision
 
 
@@ -25,7 +25,7 @@ Previously, I graduated from UC Berkeley with High Honors with majors from the [
 
 After graduating and before beginning my PhD, I worked as a machine learning engineer, where I learned more about how to deploy machine learning in production-quality software, and how to engineer scalable data pipelines.
 
-Besides my research, I also take interest in the applications of functional analysis and differential geometry to machine learning.
+Besides my research interests, I also find the applications of functional analysis to machine learning interesting.
 
 In my free time (which is very limited...) I like to cook. Recently I've been into Italian. 
 
