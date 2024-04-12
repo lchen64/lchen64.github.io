@@ -149,7 +149,7 @@ References
 Contact Information
 ======
 
-*E2-1 4213, 291 Daehak-ro Yuseong-gu, Daejeon 34141 Rep. of Korea 
+* E2-1 4213, 291 Daehak-ro Yuseong-gu, Daejeon 34141 Rep. of Korea 
 
-*Phone: +82-10-9634-0252
-*E-mail: lchen64@kaist.ac.kr
+* Phone: +82-10-9634-0252
+* E-mail: lchen64@kaist.ac.kr
