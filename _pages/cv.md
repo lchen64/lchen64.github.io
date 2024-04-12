@@ -29,7 +29,7 @@ Work Experience
   * Hosted by [Yan Zhang](https://www.cyanogenoid.com/) and [Boris Knyazev](https://bknyaz.github.io/)
     
 * Machine Learning Engineer (January 2022 - January 2023)
-  * Worked on end-to-end machine learning pipeline construction using Spark, HDFS, AWS Sagemaker, improved ETL pipelines, used Bayesian hyperparameter optimization on existing models
+* Worked on end-to-end machine learning pipeline construction using Spark, HDFS, AWS Sagemaker, improved ETL pipelines, used Bayesian hyperparameter optimization on existing models
     
 Research Experience
 ===================
@@ -146,3 +146,10 @@ References
   * _Undergraduate Advisor_
   * Email: jlpowell@arizona.edu
 
+Contact Information
+======
+
+*E2-1 4213, 291 Daehak-ro Yuseong-gu, Daejeon 34141 Rep. of Korea 
+
+*Phone: +82-10-9634-0252
+*E-mail: lchen64@kaist.ac.kr
