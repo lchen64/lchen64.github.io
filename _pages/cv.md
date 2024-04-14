@@ -84,6 +84,10 @@ Publications
    BU Demirel, **L Chen**, MA Al Faruque - ACM/IEEE International Symposium on Low Power Electronics and Design
  * Software and Hardware Systems for Autonomous Smart Parking Accommodating both Traditional and Autonomous Vehicles <br />
    MA Al Faruque, M Odema, **L Chen** - Pacific Southwest Region University Transportation Center
+ * Participant- and Disease-Related Factors as Independent Predictors of Treatment Outcomes in the RESTORE-IMI 2 Clinical Trial: A Multivariable 
+   Regression Analysis <br />
+   Ignacio Martin-Loeches, Andrew F Shorr, Marin H Kollef, Jiejun Du, Maria C Losada, Amanda Paschke, C Andrew DeRyke, Michael Wong, Erin H   
+   Jensen, **Luke Chen** - Open Forum Infectious Diseases
  * An Evaluation of Representational Similarity Analysis for Model Selection and Assessment in Computational Neuroscience <br />
   **L Chen** - International Conference on Pattern Recognition and Artificial Intelligence
  
