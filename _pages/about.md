@@ -10,7 +10,7 @@ redirect_from:
 
 Thanks for stopping by!
 
-I'm a first year Mathematics PhD Student at [KAIST](https://mathsci.kaist.ac.kr/home/en/). I am extremely fortunate to be advised by [Youngjoon Hong](https://www.youngjoonhong.com/publication) and to have my research supported by the KAIST Presidential PhD Scholarship. I also collaborate closely with the [Samsung AI Research Lab](https://www.sait.samsung.co.kr/saithome/research/researchArea.do?idx=14). Recently, I've been working on combining approaches from graph representation learning and stable diffusion to generate neural network parameters.
+I'm a first year Mathematics PhD Student at [KAIST](https://mathsci.kaist.ac.kr/home/en/). I am extremely fortunate to be advised by [Youngjoon Hong](https://www.youngjoonhong.com/publication) and to have my research supported by the KAIST Presidential PhD Fellowship. I also collaborate closely with the [Samsung AI Research Lab](https://www.sait.samsung.co.kr/saithome/research/researchArea.do?idx=14). Recently, I've been working on combining approaches from graph representation learning and stable diffusion to generate neural network parameters.
 
 
 My research interests are quite broad and include:
@@ -59,7 +59,7 @@ Course Notes
 Awards
 ---
 
-* KAIST Presidential PhD Scholarship: Awarded by KAIST to Top PhD Applicant by Department
+* KAIST Presidential PhD Fellowship: Awarded by KAIST to Top PhD Applicant by Department
 * Regents’ and Chancellors’ Scholar: Awarded to Top 1.5% of Incoming UC Berkeley Undergraduates
 * Regents’ and Chancellors’ Research Scholarship: UC Berkeley
 * UC Berkeley Deans' Honors List 
