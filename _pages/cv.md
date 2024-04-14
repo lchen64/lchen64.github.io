@@ -14,7 +14,7 @@ Education
 * Ph.D in Mathematics, [KAIST](https://mathsci.kaist.ac.kr/home/en/), August 2023 - Present
   * Research Area: Machine Learning Theory, Computer Vision, Diffusion Models 
   * Advisor: [Youngjoon Hong](https://www.youngjoonhong.com/publication)
-* M.S. with Highest Honors in [Electrical and Computer Engineering](https://engineering.jhu.edu/ece/), Johns Hopkins University, 2023
+* M.S. in [Electrical and Computer Engineering](https://engineering.jhu.edu/ece/), Johns Hopkins University, 2023
   * Thesis: Limitations of Representational Similarity Analysis for Model Selection
   * GPA: 4.00/4.00
 * Bachelor's with High Honors (Magna Cum Laude) in [Mathematics](https://math.berkeley.edu/) and [Computer Science](https://eecs.berkeley.edu/), UC Berkeley, 2019 
@@ -37,7 +37,7 @@ Research Experience
 * Fall 2023 - Present : Graduate Research Assistant
   * KAIST Mathematics Department
   * [Machine Learning and Scientific Computing Lab](https://www.youngjoonhong.com/videos)
-  * Advisor: Professor Youngjoon Hong
+  * Supervisor: Professor Youngjoon Hong
 
 * Spring 2023 - Fall 2023 : Research Intern
   * KAIST School of Computing: [MLAI Lab](https://www.mlai-kaist.com/)
@@ -159,4 +159,4 @@ Contact Information
 
 * E2-1 4213, 291 Daehak-ro Yuseong-gu, Daejeon, 34141, Republic of Korea
 * Phone: +82-10-9634-0252
-* E-mail: lchen64@kaist.ac.kr
+* E-mail: lchen64@kaist.ac.kr or lchen64@berkeley.edu
