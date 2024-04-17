@@ -143,7 +143,7 @@ References
 * [Youngjoon Hong](https://www.youngjoonhong.com/publication), Professor of Mathematics, KAIST
   * _PhD Advisor_
   * Email: hongyj@kaist.ac.kr
-* [Ercan Kuruoglu](https://ercanenginkuruoglu.github.io/), Full Professor of Data Science, Tsinghua-Berkeley, PI, Time-Varying Data Science Group
+* [Ercan Kuruoglu](https://ercanenginkuruoglu.github.io/), Professor of Data Science, Tsinghua-Berkeley, PI, Time-Varying Data Science Group
   * _Research Collaborator_
   * Email: kuruoglu@sz.tsinghua.cn
 * [Uri Hasson](http://www.hasson.org/), Professor, University of Trento
