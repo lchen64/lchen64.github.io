@@ -36,13 +36,15 @@ If you're interested in what I do and want to chat, you're welcome to email me! 
 Mathematics/Statistics Notes
 ---
 
-* Stochastic Processes: [PDF](https://lchen64.github.io/files/Stochastic_Processes.pdf)
-
-* Measure Theory and Lebesgue Integration: [PDF](https://lchen64.github.io/files/MeasureAndIntegration.pdf)
+* Functional Analysis Lecture Notes [PDF](https://lchen64.github.io/files/FunctionalAnalysis.pdf)
 
 * High-Dimensional Statistics and the Johnson-Lindenstrauss Embedding [PDF](https://lchen64.github.io/files/JohnsonLindenstrauss.pdf)
 
 * VC Dimension and Glivenko-Cantelli Theorem [PDF](https://lchen64.github.io/files/VC.pdf)
+
+* Stochastic Processes: [PDF](https://lchen64.github.io/files/Stochastic_Processes.pdf)
+
+* Measure Theory and Lebesgue Integration: [PDF](https://lchen64.github.io/files/MeasureAndIntegration.pdf)
 
 ---
 Course Notes 
