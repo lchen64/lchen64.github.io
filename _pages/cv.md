@@ -140,14 +140,14 @@ Teaching
 References
 ======
 
-* [Boris Knyazev](https://bknyaz.github.io), Research Scientist, Samsung AI Lab
-  * _Research Advisor_
-  * Email: borknyaz@gmail.com
+* [Youngjoon Hong](https://www.youngjoonhong.com/publication), Professor of Mathematics, KAIST
+  * _PhD Advisor_
+  * Email: hongyj@kaist.ac.kr
 * [Ercan Kuruoglu](https://ercanenginkuruoglu.github.io/), Full Professor of Data Science, Tsinghua-Berkeley, PI, Time-Varying Data Science Group
   * _Research Collaborator_
   * Email: kuruoglu@sz.tsinghua.cn
 * [Uri Hasson](http://www.hasson.org/), Professor, University of Trento
-  * _Research Collaborator_
+  * _Research Advisor_
   * Email: uri.hasson@unitn.it
 * [Nikhil Srivastava](https://math.berkeley.edu/~nikhil/), Professor of Mathematics, UC Berkeley & Senior Scientist, [Simons Institute for Theory of Computing](https://simons.berkeley.edu/homepage) 
   * _Undergraduate Advisor_
@@ -159,6 +159,6 @@ References
 Contact Information
 ======
 
-* E2-1 4213, 291 Daehak-ro Yuseong-gu, Daejeon, 34141, Republic of Korea
+* E2-1 Room 4213, 291 Daehak-ro Yuseong-gu, Daejeon, 34141, Republic of Korea
 * Phone: +82-10-9634-0252
 * E-mail: lchen64@kaist.ac.kr or lchen64@berkeley.edu
