@@ -127,6 +127,7 @@ Teaching
 * Probability Theory (STAT134)
 * Real Analysis (MATH104)
 * Linear Algebra (MATH110)
+* Metric Differential Geometry (MATH140)
 
 ## Graduate 
 * Combinatorial Algorithms and Optimization (CS270)
