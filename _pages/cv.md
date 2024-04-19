@@ -26,7 +26,7 @@ Education
 
 Work Experience
 ================
-* Remote Research Internship: October 2023 - Present
+* Remote Research Internship: October 2023 - April 2023
   * [Samsung (SAIT) AI Lab](https://www.sait.samsung.co.kr/saithome/research/researchArea.do?idx=14)
   * AutoML, Graph Neural Networks, Neural Architecture Search
   * Hosted by [Yan Zhang](https://www.cyanogenoid.com/) and [Boris Knyazev](https://bknyaz.github.io/)
