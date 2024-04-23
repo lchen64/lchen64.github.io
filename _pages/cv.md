@@ -21,7 +21,7 @@ Education
 * B.S. with High Honors (Magna Cum Laude) in [Mathematics](https://math.berkeley.edu/) and [Computer Science](https://eecs.berkeley.edu/), UC Berkeley, 2019 
   * Thesis: Improved Neuronal Synchrony through Feedforward Complex-Valued Autoencoders for Discovering Objects
   * Major GPA: 3.95/4.00
-  * Advisors: [Bruno Olshausen]( https://redwood.berkeley.edu/people/bruno-olshausen/) and [Jack Gallant](https://gallantlab.org/)
+  * Advisors: [Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/) and [Jack Gallant](https://gallantlab.org/)
 
 
 Work Experience
@@ -40,7 +40,7 @@ Research Experience
 * Fall 2023 - Present : Graduate Research Assistant
   * KAIST Mathematics Department
   * [Machine Learning and Scientific Computing Lab](https://www.youngjoonhong.com/videos)
-  * Advisors: [Youngjoon Hong](https://www.youngjoonhong.com/publication) and [Dongwhan Kim](https://mathsci.kaist.ac.kr/~donghwankim/index.html)
+  * Advisors: [Youngjoon Hong](https://www.youngjoonhong.com/publication) and [Donghwan Kim](https://mathsci.kaist.ac.kr/~donghwankim/index.html)
 
 * Spring 2023 - Fall 2023 : Research Intern
   * KAIST School of Computing: [MLAI Lab](https://www.mlai-kaist.com/)
