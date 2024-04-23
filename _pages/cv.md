@@ -29,7 +29,7 @@ Work Experience
 * Remote Research Internship: October 2023 - April 2023
   * [Samsung (SAIT) AI Lab](https://www.sait.samsung.co.kr/saithome/research/researchArea.do?idx=14)
   * AutoML, Graph Neural Networks, Neural Architecture Search
-  * Hosted by Boris Knyazev](https://bknyaz.github.io/) and [Yan Zhang](https://www.cyanogenoid.com/)
+  * Hosted by [Boris Knyazev](https://bknyaz.github.io/) and [Yan Zhang](https://www.cyanogenoid.com/)
     
 * Machine Learning Engineer (January 2022 - January 2023)
   * Worked on end-to-end machine learning pipelines using Spark, HDFS, AWS Sagemaker
