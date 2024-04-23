@@ -40,7 +40,7 @@ Research Experience
 * Fall 2023 - Present : Graduate Research Assistant
   * KAIST Mathematics Department
   * [Machine Learning and Scientific Computing Lab](https://www.youngjoonhong.com/videos)
-  * Supervisor: [Professor Youngjoon Hong](https://www.youngjoonhong.com/publication)
+  * Advisors: [Professor Youngjoon Hong](https://www.youngjoonhong.com/publication) and [Dongwhan Kim](https://mathsci.kaist.ac.kr/~donghwankim/index.html)
 
 * Spring 2023 - Fall 2023 : Research Intern
   * KAIST School of Computing: [MLAI Lab](https://www.mlai-kaist.com/)
@@ -48,7 +48,7 @@ Research Experience
    
 * Fall 2018 - Spring 2019: Undergraduate Research Assistant
   * [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/)/[Berkeley Artificial Intelligence Research Lab](bair.berkeley.edu): Olshausen Lab
-  * Supervisor: [Professor Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/)
+  * Advisor: [Professor Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/)
 
 * Summer Undergraduate Research Intern
   * [UC Irvine](https://engineering.uci.edu/dept/eecs)
@@ -56,7 +56,7 @@ Research Experience
   
 * Fall 2017 - Fall 2018: Undergraduate Research Assistant
   * [Berkeley Artificial Intelligence Research Lab](bair.berkeley.edu): [Gallant Lab](https://gallantlab.org/)
-  * Supervisor: Chancellor's Professor Jack Gallant
+  * Advisor: Chancellor's Professor Jack Gallant
   
 Skills
 ================
@@ -68,7 +68,8 @@ Skills
 * Python
   * numpy, scipy, pandas
   * PyTorch, Keras, sklearn
-
+* C
+  
 Publications
 ======
 
