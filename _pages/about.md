@@ -50,7 +50,9 @@ Mathematics/Statistics Notes
 Course Notes 
 ---
 
-* EE222: Nonlinear Systems: Analysis, Stability and Control (UC Berkeley Graduate Course): [PDF](https://lchen64.github.io/files/EE222(NonlinearSystems).pdf)
+* EE222: Nonlinear Systems: Analysis, Stability and Control (UC Berkeley Graduate Course) 
+    * Short Version [PDF](https://lchen64.github.io/files/EE222(NonlinearSystems).pdf) 
+    * Long Version [PDF](https://lchen64.github.io/files/Nonlinear_Systems___Professor_Sreenath___Public.pdf)
 
 * EECS 225A: Statistical Signal Processing (UC Berkeley Graduate Course): [PDF](https://lchen64.github.io/files/EECS225A(StatisticalSignalProcessing).pdf)
 
