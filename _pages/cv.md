@@ -150,6 +150,9 @@ References
 * [Youngjoon Hong](https://www.youngjoonhong.com/publication), Professor of Mathematics, KAIST
   * _PhD Advisor_
   * Email: hongyj@kaist.ac.kr
+* [Arun Ross](https://rossarun.wixsite.com/arun-ross), Martin J. Vanderploeg Endowed Professor, Department of Computer Science and Engineering, Michigan State University
+  * _Research Collaborator_
+  * Email: rossarun@cse.msu.edu
 * [Ercan Kuruoglu](https://ercanenginkuruoglu.github.io/), Professor of Data Science, Tsinghua-Berkeley, PI, Time-Varying Data Science Group
   * _Research Collaborator_
   * Email: kuruoglu@sz.tsinghua.cn
@@ -159,10 +162,7 @@ References
 * [Nikhil Srivastava](https://math.berkeley.edu/~nikhil/), Professor of Mathematics, UC Berkeley & Senior Scientist, [Simons Institute for Theory of Computing](https://simons.berkeley.edu/homepage) 
   * _Undergraduate Advisor_
   * Email: nikhil@math.berkeley.edu
-* [James Powell](https://eml.berkeley.edu//~powell/index.shtml), Distinguished Professor Emeritus, UC Berkeley
-  * _Undergraduate Advisor_
-  * Email: jlpowell@arizona.edu
-
+  
 Contact Information
 ======
 
