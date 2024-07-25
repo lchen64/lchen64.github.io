@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ============
-* Ph.D in [Mathematics](https://mathsci.kaist.ac.kr/home/en/), KAIST, January 2023 - Present
+* Ph.D in [Mathematics](https://mathsci.kaist.ac.kr/home/en/), KAIST, 2024 - Present
   * Research Area: Machine Learning Theory, Computer Vision, Diffusion Models 
   * Advisor: [Youngjoon Hong](https://www.youngjoonhong.com/publication)
 * M.S. in [Electrical and Computer Engineering](https://engineering.jhu.edu/ece/), Johns Hopkins University, 2023
