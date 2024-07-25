@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ============
-* Ph.D in [Mathematics](https://mathsci.kaist.ac.kr/home/en/), KAIST, August 2023 - Present
+* Ph.D in [Mathematics](https://mathsci.kaist.ac.kr/home/en/), KAIST, January 2023 - Present
   * Research Area: Machine Learning Theory, Computer Vision, Diffusion Models 
   * Advisor: [Youngjoon Hong](https://www.youngjoonhong.com/publication)
 * M.S. in [Electrical and Computer Engineering](https://engineering.jhu.edu/ece/), Johns Hopkins University, 2023
   * Thesis: Limitations of Representational Similarity Analysis for Model Selection
   * GPA: 4.00/4.00
-  * Advisor: [Trac D. Tran](https://thanglong.ece.jhu.edu/)
 * B.S. with High Honors (Magna Cum Laude) in [Mathematics](https://math.berkeley.edu/) and [Computer Science](https://eecs.berkeley.edu/), UC Berkeley, 2019 
   * Thesis: Improved Neuronal Synchrony through Feedforward Complex-Valued Autoencoders for Discovering Objects
   * Major GPA: 3.95/4.00
