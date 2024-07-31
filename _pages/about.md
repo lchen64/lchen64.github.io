@@ -10,7 +10,7 @@ redirect_from:
 
 Thanks for stopping by!
 
-I'm a first year Mathematics PhD Student at [KAIST](https://mathsci.kaist.ac.kr/home/en/). I am very fortunate to be advised by [Youngjoon Hong](https://www.youngjoonhong.com/publication) and to have my research supported by the KAIST Presidential PhD Fellowship. I also collaborate with the [Samsung AI Research Lab](https://www.sait.samsung.co.kr/saithome/research/researchArea.do?idx=14). Recently I've been working on combining approaches from graph representation learning and diffusion to generate neural network parameters, and on improving the theoretical foundation of diffusion models.
+I'm a first year Mathematics PhD Student at [KAIST](https://mathsci.kaist.ac.kr/home/en/). I am very fortunate to be advised by [Youngjoon Hong](https://www.youngjoonhong.com/publication) and to have my research supported by the KAIST Presidential PhD Fellowship. I also collaborate with [Arun Ross](https://rossarun.wixsite.com/arun-ross). Recently I've been working on improving the theoretical foundation of diffusion models, and on combining approaches from graph representation learning and diffusion to generate neural network parameters. 
 
 
 My research interests include:
