@@ -15,7 +15,7 @@ I'm a first year Mathematics PhD Student at [KAIST](https://mathsci.kaist.ac.kr/
 
 My research interests include:
 
-* Diffusion Models in Non-Euclidean Geometries
+* Diffusion Models in General Geometric Spaces
 * Image and Video Processing
 * Graph Representation Learning
 * Optimization on Manifolds 
@@ -28,7 +28,7 @@ After graduating and before beginning my PhD, I worked as a machine learning eng
 
 Besides my research interests, I also find the applications of functional analysis to machine learning interesting.
 
-In my free time (which is kind of nonexistent) I like to cook. Recently I've been into Italian recipes! 
+In my free time (which is kind of nonexistent) I like to swim and cook. Recently I've been into Italian recipes! 
 
 If you're interested in what I do and want to chat, you're welcome to email me! Suggestions for pasta recipes are welcome too :) 
 
