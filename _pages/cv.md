@@ -110,7 +110,8 @@ Teaching
 * Advanced Topics in Deep Reinforcement Learning (AI707)
 * Advanced Deep Learning Theory (AI709)
 * Riemannian Geometry (MAS621)
-* Advanced Statistics (MAS555)
+* Functional Analysis (MAS 641)
+* Probability Theory (MAS 550)
 
 # Coursework Completed (UC Berkeley)
 
