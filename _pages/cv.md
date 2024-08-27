@@ -147,15 +147,9 @@ Teaching
 References
 ======
 
-* [Youngjoon Hong](https://www.youngjoonhong.com/publication), Professor of Mathematics, KAIST
-  * _PhD Advisor_
-  * Email: hongyj@kaist.ac.kr
 * [Arun Ross](https://rossarun.wixsite.com/arun-ross), Martin J. Vanderploeg Endowed Professor, Department of Computer Science and Engineering, Michigan State University
   * _Research Collaborator_
   * Email: rossarun@cse.msu.edu
-* [Ercan Kuruoglu](https://ercanenginkuruoglu.github.io/), Professor of Data Science, Tsinghua-Berkeley, PI, Time-Varying Data Science Group
-  * _Research Collaborator_
-  * Email: kuruoglu@sz.tsinghua.cn
 * [Uri Hasson](http://www.hasson.org/), Professor, University of Trento
   * _Research Advisor_
   * Email: uri.hasson@unitn.it
