@@ -39,10 +39,10 @@ Research Experience
 * Fall 2023 - Present : Graduate Research Assistant
   * KAIST Mathematics Department
   * [Machine Learning and Scientific Computing Lab](https://www.youngjoonhong.com/videos)
-  * Advisors: [Youngjoon Hong](https://www.youngjoonhong.com/publication) 
+  * Advisor: [Youngjoon Hong](https://www.youngjoonhong.com/publication) 
 * Spring 2023 - Fall 2023 : Research Intern
   * KAIST School of Computing: [MLAI Lab](https://www.mlai-kaist.com/)
-  * Supervisor: [KAIST Endowed Chair Professor Sungju Hwang](sungjuhwang.com)
+  * Advisor: [KAIST Endowed Chair Professor Sungju Hwang](sungjuhwang.com)
    
 * Fall 2018 - Spring 2019: Undergraduate Research Assistant
   * [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/)/[Berkeley Artificial Intelligence Research Lab](bair.berkeley.edu): Olshausen Lab
