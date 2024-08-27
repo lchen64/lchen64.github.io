@@ -39,8 +39,7 @@ Research Experience
 * Fall 2023 - Present : Graduate Research Assistant
   * KAIST Mathematics Department
   * [Machine Learning and Scientific Computing Lab](https://www.youngjoonhong.com/videos)
-  * Advisors: [Youngjoon Hong](https://www.youngjoonhong.com/publication) and [Donghwan Kim](https://mathsci.kaist.ac.kr/~donghwankim/index.html)
-
+  * Advisors: [Youngjoon Hong](https://www.youngjoonhong.com/publication) 
 * Spring 2023 - Fall 2023 : Research Intern
   * KAIST School of Computing: [MLAI Lab](https://www.mlai-kaist.com/)
   * Supervisor: [KAIST Endowed Chair Professor Sungju Hwang](sungjuhwang.com)
