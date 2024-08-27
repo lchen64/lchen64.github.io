@@ -150,8 +150,11 @@ References
 * [Arun Ross](https://rossarun.wixsite.com/arun-ross), Martin J. Vanderploeg Endowed Professor, Department of Computer Science and Engineering, Michigan State University
   * _Research Collaborator_
   * Email: rossarun@cse.msu.edu
+* [Shirantha Welikala]((https://www.shiranthawelikala.com/)), Professor, Department of Electrical and Computer Engineering, Stevens Institute of Technology
+  * _Research Collaborator_
+  * Email: swelikal@stevens.edu
 * [Uri Hasson](http://www.hasson.org/), Professor, University of Trento
-  * _Research Advisor_
+  * _Research Collaborator_
   * Email: uri.hasson@unitn.it
 * [Nikhil Srivastava](https://math.berkeley.edu/~nikhil/), Professor of Mathematics, UC Berkeley & Senior Scientist, [Simons Institute for Theory of Computing](https://simons.berkeley.edu/homepage) 
   * _Undergraduate Advisor_
