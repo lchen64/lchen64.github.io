@@ -110,7 +110,6 @@ Teaching
 * Functional Analysis (MAS 641)
 * Probability Theory (MAS 550)
 * Complex Function Theory (MAS 541)
-
 * Advanced Topics in Deep Reinforcement Learning (AI 707)
 * Advanced Deep Learning Theory (AI 709)
 
