@@ -106,11 +106,13 @@ Teaching
 
 # Graduate Coursework (KAIST)
 
-* Advanced Topics in Deep Reinforcement Learning (AI707)
-* Advanced Deep Learning Theory (AI709)
-* Riemannian Geometry (MAS621)
+* Riemannian Geometry (MAS 621)
 * Functional Analysis (MAS 641)
 * Probability Theory (MAS 550)
+* Complex Function Theory (MAS 541)
+
+* Advanced Topics in Deep Reinforcement Learning (AI 707)
+* Advanced Deep Learning Theory (AI 709)
 
 # Coursework Completed (UC Berkeley)
 
