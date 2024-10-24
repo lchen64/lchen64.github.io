@@ -15,7 +15,7 @@ Education
   * Research Area: Machine Learning Theory, Computer Vision, Diffusion Models 
   * Advisor: [Youngjoon Hong](https://www.youngjoonhong.com/publication)
 
-* B.S., Double Major in [Mathematics](https://math.berkeley.edu/) and [Electrical Engineering & Computer Science](https://eecs.berkeley.edu/), UC Berkeley, 2019
+* B.S. , Double Major in [Mathematics](https://math.berkeley.edu/) and [Electrical Engineering & Computer Science](https://eecs.berkeley.edu/), UC Berkeley, 2019
   * High Honors (Magna Cum Laude) 
   * Honors Thesis: Improved Neuronal Synchrony through Feedforward Complex-Valued Autoencoders for Discovering Objects
   * Major GPA: 3.95/4.00
