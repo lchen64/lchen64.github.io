@@ -8,41 +8,48 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for stopping by!
+Thanks for stopping by my webpage!
 
-I am a Mathematics PhD Student at [KAIST](https://mathsci.kaist.ac.kr/home/en/), where I'm very fortunate to be advised by [Youngjoon Hong](https://www.youngjoonhong.com/publication) in the [Machine Learning and Scientific Computing Lab](https://www.youngjoonhong.com/videos), and to have my research supported by the KAIST Presidential PhD Fellowship. Recently I've been working on improving the theoretical foundations of diffusion models, focusing on sampling efficiency. Also, I've been exploring the combination of approaches from graph representation learning and diffusion to generate desirable neural network parameters. 
-
-
-My research interests include:
-
-* Diffusion Models in General Geometric Spaces
-* Image & Video Processing
-* High-Dimensional Statistics
-* Optimization on Manifolds (e.g. Riemannian, Finslerian)
-* Dynamical Systems Analysis of Optimization Methods
+I'm a final semester Math Master's Student at [KAIST](https://mathsci.kaist.ac.kr/home/en/), where I'm very fortunate to be advised by [Wooseok Ha](https://haywse.github.io/) and [Youngjoon Hong](https://www.youngjoonhong.com/publication) in the [Machine Learning and Scientific Computing Lab](https://www.youngjoonhong.com/videos), and to have my research supported by the KAIST Presidential PhD Fellowship. Recently I've been working on improving the theoretical foundations of diffusion models, focusing on sampling efficiency. Also, I've been exploring approaches from graph representation learning and diffusion, in order to generate scalable neural network architectures/parameters. 
   
 
-Previously, I graduated from UC Berkeley with High Honors with majors from the [Mathematics Department](https://math.berkeley.edu/) and [Electrical Engineering and Computer Science Department](https://eecs.berkeley.edu), where I had the pleasure of being advised by [Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/) and [Jack Gallant](https://gallantlab.org/) in the [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/). There I worked on theoretical visual neuroscience and unsupervised learning methods for computer vision. I was also an undergrad research intern at [UC Irvine](https://engineering.uci.edu/dept/eecs).
+Previously, I graduated from UC Berkeley with High Honors, and majors from the [Mathematics Department](https://math.berkeley.edu/) and [Electrical Engineering and Computer Science Department](https://eecs.berkeley.edu), where I had the pleasure of being advised by [Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/) and [Jack Gallant](https://gallantlab.org/) in the [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/). There I worked on theoretical visual neuroscience and unsupervised learning methods for computer vision. I was also an undergrad research intern at [UC Irvine](https://engineering.uci.edu/dept/eecs).
 
-After graduating and before beginning my PhD, I worked as a machine learning engineer, where I learned more about how to deploy machine learning in production-quality software, and how to engineer scalable data pipelines.
+After graduating Berkeley, and before beginning graduate school, I worked as a machine learning engineer, where I gained experience about how to deploy machine learning models in production-quality software, and how to engineer scalable data pipelines.
 
+Research Interests:
+=====================
+
+* Diffusion Models: Particularly on Non-Euclidean Geometries
+* Image/Video Processing
+* High-Dimensional Statistics
+* Geometry Processing, Topological Data Analysis
+* Nonlinear Dynamical Systems Analysis of Optimization Algorithms
+  
 Besides my research interests, I also find the applications of functional analysis to machine learning interesting.
 
-In my free time (which is kind of nonexistent nowadays) my hobbies are swimming and cooking. Recently I've been into Italian recipes! 
+In my free time (which is kind of nonexistent, haha) my hobbies are swimming and cooking. Recently I've been into Italian recipes! 
 
-If you're interested in what I do and want to chat, you're welcome to email me!
+If you're interested in what I'm doing and want to chat, you're welcome to email me!
 
 
 News
 ===
 
-* For Summer 2025, I will be a research intern supervised by [Arun Ross](https://rossarun.wixsite.com/arun-ross) at the [iPRoBe Lab](https://iprobe.cse.msu.edu/index.php), where I will be working on using Riemannian Diffusion Models and Geometry Processing for Biometrics!
+* Paper accepted to [ICPRAI 2024](https://brain.korea.ac.kr/icprai2024/)!
+* Starting Fall 2025, I will begin as a dual major PhD Student in Mathematics and Computer Science at Michigan State University! 
+    * I will be advised by [Arun Ross](https://rossarun.wixsite.com/arun-ross) and [Guowei Wei](https://users.math.msu.edu/users/weig/)
 
-* Paper accepted to ICPRAI 2024!
-
-Resources
+Talks
 ===
 
+* Improving Diffusion Model Sampling, Generalization of Diffusion on Riemannian Manifolds, and Applications to Biometrics
+  * _KIAS (Korea Institute for Advanced Study) 2nd Graduate Meeting in Mathematics_   -Seoul, South Korea, May 2025
+* Causality Analysis in Neural Time Series with Cross Convergent Mapping and Empirical Dynamic Modeling
+  * _Center for Neuroscience Imaging Research, IBS (Institute of Basic Science)_ -Suwon, South Korea, January 2022
+    
+Resources
+===
 
 Mathematics/Statistics Notes
 ---
@@ -53,10 +60,11 @@ Mathematics/Statistics Notes
 
 * (Complex Analysis) Proof of the Mittag-Leffler Theorem [PDF](https://lchen64.github.io/files/Mittag_Leffler_Theorem_Proof.pdf)
 
+* (Complex Analysis) Proof of the Riemann Mapping Theorem [PDF](https://lchen64.github.io/files/Proof_of_Riemann_Mapping_Theorem.pdf)
+
 * Stochastic Processes: [PDF](https://lchen64.github.io/files/Stochastic_Processes.pdf)
 
 * Measure Theory and Lebesgue Integration: [PDF](https://lchen64.github.io/files/MeasureAndIntegration.pdf)
-
 
 
 Course Notes 
@@ -76,8 +84,9 @@ Course Notes
 
 Awards
 ===
-
-* KAIST Presidential PhD Fellowship: Awarded by KAIST to Top PhD Applicant by Department
+* MSU National Science Foundation Research Traineeship AIDMM Awardee: Recognition of excellent academic achievement and passion in the area of Machine Learning. Awarded $36,070 stipend
+* MSU Engineering Distinguished Fellowship: Awarded to Outstanding Engineering PhD Applicants to MSU
+* KAIST Presidential Graduate Fellowship: Awarded by KAIST to Top Graduate Applicant by Department
 * Regents’ and Chancellors’ Scholar: Awarded to Top 1.5% of Incoming UC Berkeley Undergraduates
 * Regents’ and Chancellors’ Research Scholarship: UC Berkeley
 * UC Berkeley Deans' Honors List 

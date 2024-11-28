@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luke Chen / PhD Student @ KAIST"
+title                    : "Luke Chen / Math and CS PhD Student @ MSU"
 title_separator          : "-"
 name                     : &name "Luke Chen"
 url                      : https://lchen64.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Luke Chen"
   avatar           : "https://lchen64.github.io/images/PhotoLukeChen.jpg"
-  bio              : "Applied Mathematics PhD Student Working on Improving Diffusion Models, Geometric Deep Learning and Machine Learning Theory. Also Interested in Information Theory, Optimization, and Dynamical Systems"
+  bio              : "PhD Student Working on Improving Diffusion Models, Geometric Deep Learning and Machine Learning Theory. Also Interested in Information Theory, Optimization, and Dynamical Systems"
   location         : 
-  employer         : "KAIST"
+  employer         : "MSU, KAIST"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=qkqFnHEAAAAJ"
   email            : "lchen64@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -98,7 +98,6 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : luke-chen-7303b9225
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
@@ -176,7 +175,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -205,6 +206,14 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:

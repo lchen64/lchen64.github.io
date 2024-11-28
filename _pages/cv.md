@@ -11,14 +11,20 @@ redirect_from:
 
 Education
 ============
-* Ph.D in [Mathematics](https://mathsci.kaist.ac.kr/home/en/), KAIST, 2024 - Present
-  * Research Area: Machine Learning Theory, Computer Vision, Diffusion Models 
-  * Advisors: [Youngjoon Hong](https://www.youngjoonhong.com/publication) and [Hyunwoo Kim](https://www.hyunwoojkim.com/people)
+* Ph.D. in [Mathematics](https://math.msu.edu/) and [Computer Science](https://engineering.msu.edu/about/departments/cse), Michigan State University, 2025 - Present (Expected 2029)
+  * Research Areas: Topological Data Analysis, Geometry Processing, Riemannian Diffusion, Biometrics, Optimization
+  * Advisors: [Guowei Wei](https://users.math.msu.edu/users/weig/) (Mathematics) and [Arun Ross](https://rossarun.wixsite.com/arun-ross) (Computer Science)
+  * External Advisor: [Chi-Wang Shu](https://www.dam.brown.edu/people/shu/) (Brown Mathematics)
+* M.S. in [Mathematics](https://mathsci.kaist.ac.kr/home/en/), KAIST, 2023 - 2025
+  * GPA: 4.0/4.3
+  * Research Areas: Machine Learning Theory, Computer Vision, Diffusion Models, Optimization
+  * Thesis: Piecewise Acceleration Flows, SDE Neural Solvers, and Wavelets for Improving Sampling from Diffusion Generative Models
+  * Advisors: [Wooseok Ha](https://haywse.github.io/) and [Youngjoon Hong](https://www.youngjoonhong.com/publication)
 
 * B.S. in [Mathematics](https://math.berkeley.edu/) and [Electrical Engineering & Computer Science](https://eecs.berkeley.edu/) (Double Major), UC Berkeley, 2019
-  * High Honors (Magna Cum Laude) 
-  * Honors Thesis: Improved Neuronal Synchrony through Feedforward Complex-Valued Autoencoders for Discovering Objects
+  * High Honors (Magna Cum Laude)
   * Major GPA: 3.95/4.00
+  * Honors Thesis: Improved Neuronal Synchrony with Feedforward Complex-Valued Autoencoders for Object Discovery
   * Advisors: [Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/) and [Jack Gallant](https://gallantlab.org/)
 
 
@@ -27,18 +33,18 @@ Work Experience
 * Remote Research Internship: October 2023 - April 2023
   * [Samsung (SAIT) AI Lab](https://www.sait.samsung.co.kr/saithome/research/researchArea.do?idx=14)
   * AutoML, Graph Neural Networks, Neural Architecture Search
-  * Hosted by [Boris Knyazev](https://bknyaz.github.io/) and [Yan Zhang](https://www.cyanogenoid.com/)
+  * Hosted by [Boris Knyazev](https://bknyaz.github.io/) 
     
-* Machine Learning Engineer (January 2022 - January 2023)
+* Machine Learning Engineer: January 2022 - January 2023, Dun & Bradstreet, San Mateo, CA
   * Worked on end-to-end machine learning pipelines using Spark, HDFS, AWS Sagemaker
   * Improved ETL pipelines, used Bayesian hyperparameter optimization on existing model
     
 Research Experience
 ===================
-* Fall 2023 - Present : Graduate Research Assistant
+* Fall 2023 - August 2025 : Masters Research Assistant
   * KAIST Mathematics Department
   * [Machine Learning and Scientific Computing Lab](https://www.youngjoonhong.com/videos)
-  * Advisors: [Youngjoon Hong](https://www.youngjoonhong.com/publication) and [Hyunwoo Kim](https://www.hyunwoojkim.com/people) 
+  * Advisors: [Wooseok Ha](https://haywse.github.io/) and [Youngjoon Hong](https://www.youngjoonhong.com/publication)
 * Spring 2023 - Fall 2023 : Research Intern
   * KAIST School of Computing: [MLAI Lab](https://www.mlai-kaist.com/)
   * Advisor: [KAIST Endowed Chair Professor Sungju Hwang](sungjuhwang.com)
@@ -66,6 +72,7 @@ Skills
   * numpy, scipy, pandas
   * PyTorch, Keras, sklearn
 * C
+* LaTeX
   
 Publications
 ======
@@ -90,7 +97,7 @@ Publications
    MA Al Faruque, M Odema, **L Chen** - Pacific Southwest Region University Transportation Center
  * Participant- and Disease-Related Factors as Independent Predictors of Treatment Outcomes in the RESTORE-IMI 2 Clinical Trial: A Multivariable 
    Regression Analysis <br />
-   Ignacio Martin-Loeches, Andrew F Shorr, Marin H Kollef, Jiejun Du, Maria C Losada, Amanda Paschke, C Andrew DeRyke, Michael Wong, Erin H   
+   Ignacio Martin-Loeches, Andrew F Shorr, Marin H Kollef, Jiejun Du, Maria C Losada, Amanda Paschke, C Andrew DeRyke, Michael Wong, Erin H  
    Jensen, **Luke Chen** - Open Forum Infectious Diseases
  * An Evaluation of Representational Similarity Analysis for Model Selection and Assessment in Computational Neuroscience <br />
   **L Chen** - International Conference on Pattern Recognition and Artificial Intelligence
@@ -98,17 +105,23 @@ Publications
   
 Teaching
 ======
-* Previous: 
-  * Teaching Assistant for CS61B: Data Structures and Algorithms (UC Berkeley)
-    * Instructor: Paul Hilfinger
-  * Teaching Assistant for MATH54 : Linear Algebra and Differential Equations (UC Berkeley)
+* KAIST
+  * Teaching Assistant for MAS201: Differential Equations and Applications
+    * Instructor: [Ji Oon Lee](https://mathsci.kaist.ac.kr/~jioon/)
+* UC Berkeley: 
+  * Teaching Assistant for CS61B: Data Structures and Algorithms 
+    * Instructor: [Paul Hilfinger](https://people.eecs.berkeley.edu/~hilfingr/)
+  * Teaching Assistant for MATH54 : Linear Algebra and Differential Equations
+    * Instructor : [Nikhil Srivastava](https://math.berkeley.edu/~nikhil/)
 
 # Graduate Coursework (KAIST)
 
 * Complex Geometry (MAS 621)
 * Functional Analysis (MAS 641)
-* Probability Theory (MAS 550)
+* Algebraic Topology (MAS 550)
+* Riemannian Geometry (MAS 621)
 * Complex Function Theory (MAS 541)
+* Advanced Statistics (MAS 555) 
 * Advanced Topics in Deep Reinforcement Learning (AI 707)
 * Advanced Deep Learning Theory (AI 709)
 
@@ -123,10 +136,10 @@ Teaching
 * Real Analysis (MATH104)
 * Second Course in Linear Algebra (MATH110)
 * Metric Differential Geometry (MATH140)
-* Numerical Analysis (MATH128A)
+* Numerical Analysis (MATH128A)(Programming Langauge: MATLAB)
 * Linear Systems & Signals (EE16B)
-* Data Structures (CS61B)
-* Machine Structures (CS61C)
+* Data Structures (CS61B) - (Programming Language: Java)
+* Machine Structures (CS61C) - (Programming Language: C)
 * Algorithms and Complexity Theory (CS170)
 * Machine Learning (CS189)
 * Operating Systems and Systems Programming (CS162)
@@ -144,14 +157,17 @@ Teaching
 
 
 References
-======
+================
 
 * [Arun Ross](https://rossarun.wixsite.com/arun-ross), Martin J. Vanderploeg Endowed Professor, Department of Computer Science and Engineering, Michigan State University
-  * _Research Collaborator_
+  * _PhD Advisor_
   * Email: rossarun@cse.msu.edu
-* [Shirantha Welikala](https://www.shiranthawelikala.com/), Professor, Department of Electrical and Computer Engineering, Stevens Institute of Technology
-  * _Research Collaborator_
-  * Email: swelikal@stevens.edu
+* [Guowei Wei](https://users.math.msu.edu/users/weig/), MSU Research Foundation Professor, Mathematics, Electrical and Computer Engineering, Biochemistry and Molecular Biology, Michigan State University
+  * _PhD Advisor_
+  * Email: weig@msu.edu
+* [Youngjoon Hong](https://www.youngjoonhong.com/publication), Professor, Department of Mathematical Sciences, Seoul National University
+  * _Masters Research Advisor_
+  * Email: hongyj@snu.ac.kr
 * [Nikhil Srivastava](https://math.berkeley.edu/~nikhil/), Professor of Mathematics, UC Berkeley & Senior Scientist, [Simons Institute for Theory of Computing](https://simons.berkeley.edu/homepage) 
   * _Undergraduate Advisor_
   * Email: nikhil@math.berkeley.edu
@@ -164,4 +180,4 @@ Contact Information
 
 * E2-1 Room 4213, 291 Daehak-ro Yuseong-gu, Daejeon, 34141, Republic of Korea
 * Phone: +82-10-9634-0252
-* E-mail: lchen64@kaist.ac.kr or lchen64@berkeley.edu
+* E-mail: lchen64@kaist.ac.kr or chenluk1@msu.edu
