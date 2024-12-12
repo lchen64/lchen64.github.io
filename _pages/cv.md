@@ -60,12 +60,12 @@ Skills
 * Java
 * Scala
 * Linux Server
-* HPC, AWS (Sagemaker, S3)
+* HPC, AWS (Sagemaker)
 * MATLAB
 * Python
   * numpy, scipy, pandas
   * PyTorch, Keras, sklearn
-* C
+  
   
 Publications
 ======
@@ -109,6 +109,7 @@ Teaching
 * Functional Analysis (MAS 641)
 * Probability Theory (MAS 550)
 * Complex Function Theory (MAS 541)
+* Algebraic Topology (MAS 531)
 * Advanced Topics in Deep Reinforcement Learning (AI 707)
 * Advanced Deep Learning Theory (AI 709)
 
