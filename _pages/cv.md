@@ -27,9 +27,9 @@ Work Experience
 * Remote Research Internship: October 2023 - April 2023
   * [Samsung (SAIT) AI Lab](https://www.sait.samsung.co.kr/saithome/research/researchArea.do?idx=14)
   * AutoML, Graph Neural Networks, Neural Architecture Search
-  * Hosted by [Boris Knyazev](https://bknyaz.github.io/) and [Yan Zhang](https://www.cyanogenoid.com/)
+  * Hosted by [Boris Knyazev](https://bknyaz.github.io/) 
     
-* Machine Learning Engineer (January 2022 - January 2023)
+* Machine Learning Engineer (January 2022 - January 2023) | Dun & Bradstreet | San Mateo, CA
   * Worked on end-to-end machine learning pipelines using Spark, HDFS, AWS Sagemaker
   * Improved ETL pipelines, used Bayesian hyperparameter optimization on existing model
     
@@ -107,7 +107,8 @@ Teaching
 
 * Complex Geometry (MAS 621)
 * Functional Analysis (MAS 641)
-* Probability Theory (MAS 550)
+* Algebraic Topology (MAS 550)
+* Riemannian Geometry (MAS 621)
 * Complex Function Theory (MAS 541)
 * Advanced Topics in Deep Reinforcement Learning (AI 707)
 * Advanced Deep Learning Theory (AI 709)
@@ -149,6 +150,9 @@ References
 * [Arun Ross](https://rossarun.wixsite.com/arun-ross), Martin J. Vanderploeg Endowed Professor, Department of Computer Science and Engineering, Michigan State University
   * _Research Collaborator_
   * Email: rossarun@cse.msu.edu
+*  [Youngjoon Hong](https://www.youngjoonhong.com/publication), Professor, Department of Mathematical Sciences, KAIST
+  * _Masters Research Advisor_
+  * Email: hongyj@kaist.ac.kr
 * [Shirantha Welikala](https://www.shiranthawelikala.com/), Professor, Department of Electrical and Computer Engineering, Stevens Institute of Technology
   * _Research Collaborator_
   * Email: swelikal@stevens.edu
