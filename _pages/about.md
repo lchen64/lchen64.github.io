@@ -36,7 +36,7 @@ If you're interested in what I'm doing and want to chat, you're welcome to email
 News
 ===
 
-* For Summer 2025, I will be a research intern supervised by [Arun Ross](https://rossarun.wixsite.com/arun-ross) at the [iPRoBe Lab](https://iprobe.cse.msu.edu/index.php), where I will be working on using Riemannian Diffusion Models and Geometry Processing for Biometrics!
+* For Summer 2025, I will be a research intern supervised by [Arun Ross](https://rossarun.wixsite.com/arun-ross) at MSU in the [iPRoBe Lab](https://iprobe.cse.msu.edu/index.php), where I will be working on Riemannian Diffusion Models and Geometry Processing!
 
 * Paper accepted to ICPRAI 2024!
 
@@ -52,6 +52,8 @@ Mathematics/Statistics Notes
 * VC Dimension and Glivenko-Cantelli Theorem [PDF](https://lchen64.github.io/files/VC.pdf)
 
 * (Complex Analysis) Proof of the Mittag-Leffler Theorem [PDF](https://lchen64.github.io/files/Mittag_Leffler_Theorem_Proof.pdf)
+
+* (Complex Analysis) Proof of the Riemann Mapping Theorem [PDF](https://lchen64.github.io/files/Proof_of_Riemann_Mapping_Theorem.pdf)
 
 * Stochastic Processes: [PDF](https://lchen64.github.io/files/Stochastic_Processes.pdf)
 
