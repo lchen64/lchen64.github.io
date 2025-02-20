@@ -100,12 +100,12 @@ Teaching
 ======
 * KAIST
   * Teaching Assistant for MAS201: Differential Equations and Applications
-    * Instructor: Ji Oon Lee
+    * Instructor: [Ji Oon Lee](https://mathsci.kaist.ac.kr/~jioon/)
 * UC Berkeley: 
   * Teaching Assistant for CS61B: Data Structures and Algorithms 
-    * Instructor: Paul Hilfinger
+    * Instructor: [Paul Hilfinger](https://people.eecs.berkeley.edu/~hilfingr/)
   * Teaching Assistant for MATH54 : Linear Algebra and Differential Equations
-    * Instructor : Nikhil Srivastava
+    * Instructor : [Nikhil Srivastava](https://math.berkeley.edu/~nikhil/)
 
 # Graduate Coursework (KAIST)
 
