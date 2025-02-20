@@ -29,7 +29,7 @@ Work Experience
   * AutoML, Graph Neural Networks, Neural Architecture Search
   * Hosted by [Boris Knyazev](https://bknyaz.github.io/) 
     
-* Machine Learning Engineer (January 2022 - January 2023) | Dun & Bradstreet | San Mateo, CA
+* Machine Learning Engineer: January 2022 - January 2023 | Dun & Bradstreet | San Mateo, CA
   * Worked on end-to-end machine learning pipelines using Spark, HDFS, AWS Sagemaker
   * Improved ETL pipelines, used Bayesian hyperparameter optimization on existing model
     
