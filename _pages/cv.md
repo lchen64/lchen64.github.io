@@ -12,8 +12,8 @@ redirect_from:
 Education
 ============
 * Ph.D in [Mathematics](https://mathsci.kaist.ac.kr/home/en/), KAIST, 2024 - Present
-  * Research Area: Machine Learning Theory, Computer Vision, Diffusion Models 
-  * Advisors: [Youngjoon Hong](https://www.youngjoonhong.com/publication) and [Hyunwoo Kim](https://www.hyunwoojkim.com/people)
+  * Research Areas: Machine Learning Theory, Computer Vision, Diffusion Models, Optimization
+  * Advisors: [Youngjoon Hong](https://www.youngjoonhong.com/publication) and [Wooseok Ha](https://haywse.github.io/)
 
 * B.S. in [Mathematics](https://math.berkeley.edu/) and [Electrical Engineering & Computer Science](https://eecs.berkeley.edu/) (Double Major), UC Berkeley, 2019
   * High Honors (Magna Cum Laude) 
@@ -38,7 +38,7 @@ Research Experience
 * Fall 2023 - Present : Graduate Research Assistant
   * KAIST Mathematics Department
   * [Machine Learning and Scientific Computing Lab](https://www.youngjoonhong.com/videos)
-  * Advisors: [Youngjoon Hong](https://www.youngjoonhong.com/publication) and [Hyunwoo Kim](https://www.hyunwoojkim.com/people) 
+  * Advisors: [Wooseok Ha](https://haywse.github.io/) and [Youngjoon Hong](https://www.youngjoonhong.com/publication)
 * Spring 2023 - Fall 2023 : Research Intern
   * KAIST School of Computing: [MLAI Lab](https://www.mlai-kaist.com/)
   * Advisor: [KAIST Endowed Chair Professor Sungju Hwang](sungjuhwang.com)
