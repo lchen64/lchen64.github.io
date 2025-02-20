@@ -65,7 +65,6 @@ Skills
 * Python
   * numpy, scipy, pandas
   * PyTorch, Keras, sklearn
-* C
   
 Publications
 ======
@@ -128,10 +127,10 @@ Teaching
 * Real Analysis (MATH104)
 * Second Course in Linear Algebra (MATH110)
 * Metric Differential Geometry (MATH140)
-* Numerical Analysis (MATH128A)
+* Numerical Analysis (MATH128A)(Programming Langauge: MATLAB)
 * Linear Systems & Signals (EE16B)
-* Data Structures (CS61B)
-* Machine Structures (CS61C)
+* Data Structures (CS61B) - (Programming Language: Java)
+* Machine Structures (CS61C) - (Programming Language: C)
 * Algorithms and Complexity Theory (CS170)
 * Machine Learning (CS189)
 * Operating Systems and Systems Programming (CS162)
