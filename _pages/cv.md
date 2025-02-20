@@ -100,7 +100,7 @@ Teaching
 ======
 * KAIST
   * Teaching Assistant for MAS201: Differential Equations and Applications
-    * Instructor: Lee Ji Oon
+    * Instructor: Ji Oon Lee
 * UC Berkeley: 
   * Teaching Assistant for CS61B: Data Structures and Algorithms 
     * Instructor: Paul Hilfinger
