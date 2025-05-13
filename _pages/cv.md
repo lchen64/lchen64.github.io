@@ -108,6 +108,8 @@ Teaching
 * KAIST
   * Teaching Assistant for MAS201: Differential Equations and Applications
     * Instructor: [Ji Oon Lee](https://mathsci.kaist.ac.kr/~jioon/)
+  * Teaching Assistant for MAS102: Multivariable Calculus
+    * Instructor: [Yongjung Kim](https://amath.kaist.ac.kr/pde_lab/members/YongJungKim/)
 * UC Berkeley: 
   * Teaching Assistant for CS61B: Data Structures and Algorithms 
     * Instructor: [Paul Hilfinger](https://people.eecs.berkeley.edu/~hilfingr/)

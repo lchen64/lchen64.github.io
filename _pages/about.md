@@ -20,11 +20,11 @@ After graduating Berkeley, and before beginning graduate school, I worked as a m
 Research Interests:
 =====================
 
-* Diffusion Models: Particularly on Non-Euclidean Geometries
-* Image/Video Processing
-* High-Dimensional Statistics
+* Diffusion Models, Particularly on Non-Euclidean Geometries
+* High-Dimensional Statistics, Domain Adaptation
 * Geometry Processing, Topological Data Analysis
 * Nonlinear Dynamical Systems Analysis of Optimization Algorithms
+* Image and Video Processing
   
 Besides my research interests, I also find the applications of functional analysis to machine learning interesting.
 
@@ -37,8 +37,8 @@ News
 ===
 
 * Paper accepted to [ICPRAI 2024](https://brain.korea.ac.kr/icprai2024/)!
-* Starting Fall 2025, I will begin as a dual major PhD Student in Mathematics and Computer Science at Michigan State University! 
-    * I will be advised by [Arun Ross](https://rossarun.wixsite.com/arun-ross) and [Guowei Wei](https://users.math.msu.edu/users/weig/)
+* Starting Fall 2025, I will begin as a PhD student in Mathematics and Computer Science at Michigan State University! 
+    * I will be advised by [Guowei Wei](https://users.math.msu.edu/users/weig/) and [Arun Ross](https://rossarun.wixsite.com/arun-ross)
 
 Talks
 ===
@@ -50,7 +50,6 @@ Talks
     
 Resources
 ===
-
 Mathematics/Statistics Notes
 ---
 
@@ -65,7 +64,6 @@ Mathematics/Statistics Notes
 * Stochastic Processes: [PDF](https://lchen64.github.io/files/Stochastic_Processes.pdf)
 
 * Measure Theory and Lebesgue Integration: [PDF](https://lchen64.github.io/files/MeasureAndIntegration.pdf)
-
 
 Course Notes 
 ---
@@ -84,13 +82,12 @@ Course Notes
 
 Awards
 ===
-* MSU National Science Foundation Research Traineeship AIDMM Awardee: Recognition of excellent academic achievement and passion in the area of Machine Learning. Awarded $36,070 stipend
+* MSU NSF AIDMM: Awarded $36,070 PhD Research Funding for 1 Year
 * MSU Engineering Distinguished Fellowship: Awarded to Outstanding Engineering PhD Applicants to MSU
 * KAIST Presidential Graduate Fellowship: Awarded by KAIST to Top Graduate Applicant by Department
 * Regents’ and Chancellors’ Scholar: Awarded to Top 1.5% of Incoming UC Berkeley Undergraduates
-* Regents’ and Chancellors’ Research Scholarship: UC Berkeley
+* UC Berkeley Regents’ and Chancellors’ Research Scholarship
 * UC Berkeley Deans' Honors List 
-* [UC Berkeley Undergraduate Research Fellowship](https://research.berkeley.edu/surf/)
-* Summer Undergraduate Research Fellowship: The Rose Hills Foundation, UC Berkeley ($5000)
+* [Summer Undergraduate Research Fellowship](https://research.berkeley.edu/surf/): The Rose Hills Foundation, UC Berkeley ($5000) 
 * Upsilon Pi Epsilon National Computer Science Honors Society: UC Berkeley Chapter
-* UC Berkeley Mathematics Major Departmental Honors
+* UC Berkeley Math Major Departmental Honors
