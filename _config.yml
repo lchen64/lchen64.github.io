@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luke Chen / Math and CS PhD Student @ MSU"
+title                    : "Luke Chen / PhD Student @ MSU"
 title_separator          : "-"
 name                     : &name "Luke Chen"
 url                      : https://lchen64.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
