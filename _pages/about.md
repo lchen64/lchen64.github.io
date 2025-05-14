@@ -50,7 +50,6 @@ Talks
     
 Resources
 ===
-
 Mathematics/Statistics Notes
 ---
 
@@ -65,7 +64,6 @@ Mathematics/Statistics Notes
 * Stochastic Processes: [PDF](https://lchen64.github.io/files/Stochastic_Processes.pdf)
 
 * Measure Theory and Lebesgue Integration: [PDF](https://lchen64.github.io/files/MeasureAndIntegration.pdf)
-
 
 Course Notes 
 ---
