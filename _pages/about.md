@@ -21,10 +21,10 @@ Research Interests:
 =====================
 
 * Diffusion Model, Particularly on Non-Euclidean Geometries
-* Image and Video Processing
-* High-Dimensional Statistics
+* High-Dimensional Statistics, Domain Adaptation
 * Geometry Processing, Topological Data Analysis
 * Nonlinear Dynamical Systems Analysis of Optimization Algorithms
+* Image and Video Processing
   
 Besides my research interests, I also find the applications of functional analysis to machine learning interesting.
 
