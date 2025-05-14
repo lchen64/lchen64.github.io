@@ -37,8 +37,8 @@ News
 ===
 
 * Paper accepted to [ICPRAI 2024](https://brain.korea.ac.kr/icprai2024/)!
-* Starting Fall 2025, I will begin as a dual major PhD Student in Mathematics and Computer Science at Michigan State University! 
-    * I will be advised by [Arun Ross](https://rossarun.wixsite.com/arun-ross) and [Guowei Wei](https://users.math.msu.edu/users/weig/)
+* Starting Fall 2025, I will begin as a PhD student in Mathematics and Computer Science at Michigan State University! 
+    * I will be advised by [Guowei Wei](https://users.math.msu.edu/users/weig/) and [Arun Ross](https://rossarun.wixsite.com/arun-ross)
 
 Talks
 ===
