@@ -20,8 +20,8 @@ After graduating Berkeley, and before beginning graduate school, I worked as a m
 Research Interests:
 =====================
 
-* Diffusion Models: Particularly on Non-Euclidean Geometries
-* Image/Video Processing
+* Diffusion Model, Particularly on Non-Euclidean Geometries
+* Image and Video Processing
 * High-Dimensional Statistics
 * Geometry Processing, Topological Data Analysis
 * Nonlinear Dynamical Systems Analysis of Optimization Algorithms
