@@ -85,7 +85,7 @@ Awards
 * MSU NSF AIDMM: Awarded $36,070 PhD Research Funding for 1 Year
 * MSU Engineering Distinguished Fellowship: Awarded to Outstanding Engineering PhD Applicants to MSU
 * KAIST Presidential Graduate Fellowship: Awarded by KAIST to Top Graduate Applicant by Department
-* Best TA Award (KAIST Math): Awarded Once
+* Best TA Award (KAIST Math): Received Once
 * Regents’ and Chancellors’ Scholar: Awarded to Top 1.5% of Incoming UC Berkeley Undergraduates
 * UC Berkeley Regents’ and Chancellors’ Research Scholarship
 * UC Berkeley Deans' Honors List 
