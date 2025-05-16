@@ -82,7 +82,7 @@ Course Notes
 
 Awards
 ===
-* MSU National Science Foundation Research Traineeship AIDMM Awardee: Recognition of excellent academic achievement and passion in the area of Machine Learning. Awarded $36,070 stipend
+* MSU NSF AIDMM: Awarded $36,070 PhD Research Funding for 1 Year
 * MSU Engineering Distinguished Fellowship: Awarded to Outstanding Engineering PhD Applicants to MSU
 * KAIST Presidential Graduate Fellowship: Awarded by KAIST to Top Graduate Applicant by Department
 * Regents’ and Chancellors’ Scholar: Awarded to Top 1.5% of Incoming UC Berkeley Undergraduates
