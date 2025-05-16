@@ -85,10 +85,10 @@ Awards
 * MSU NSF AIDMM: Awarded $36,070 PhD Research Funding for 1 Year
 * MSU Engineering Distinguished Fellowship: Awarded to Outstanding Engineering PhD Applicants to MSU
 * KAIST Presidential Graduate Fellowship: Awarded by KAIST to Top Graduate Applicant by Department
+* Best TA Award (KAIST Math): Awarded Once
 * Regents’ and Chancellors’ Scholar: Awarded to Top 1.5% of Incoming UC Berkeley Undergraduates
-* Regents’ and Chancellors’ Research Scholarship: UC Berkeley
+* UC Berkeley Regents’ and Chancellors’ Research Scholarship
 * UC Berkeley Deans' Honors List 
-* [UC Berkeley Undergraduate Research Fellowship](https://research.berkeley.edu/surf/)
-* Summer Undergraduate Research Fellowship: The Rose Hills Foundation, UC Berkeley ($5000)
+* [Summer Undergraduate Research Fellowship](https://research.berkeley.edu/surf/): The Rose Hills Foundation, UC Berkeley ($5000) 
 * Upsilon Pi Epsilon National Computer Science Honors Society: UC Berkeley Chapter
-* UC Berkeley Mathematics Major Departmental Honors
+* UC Berkeley Math Major Departmental Honors
