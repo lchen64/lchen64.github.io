@@ -43,8 +43,6 @@ News
 Talks
 ===
 
-* Improving Diffusion Model Sampling, Generalization of Diffusion on Riemannian Manifolds, and Applications to Biometrics
-  * _KIAS (Korea Institute for Advanced Study) 2nd Graduate Meeting in Mathematics_   -Seoul, South Korea, May 2025
 * Causality Analysis in Neural Time Series with Cross Convergent Mapping and Empirical Dynamic Modeling
   * _Center for Neuroscience Imaging Research, IBS (Institute of Basic Science)_ -Suwon, South Korea, January 2022
     
