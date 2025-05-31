@@ -16,7 +16,6 @@ Education
   * Advisors: [Guowei Wei](https://users.math.msu.edu/users/weig/) (Mathematics) and [Arun Ross](https://rossarun.wixsite.com/arun-ross) (Computer Science)
   * External Advisor: [Chi-Wang Shu](https://www.dam.brown.edu/people/shu/) (Brown Mathematics)
 * M.S. in [Mathematics](https://mathsci.kaist.ac.kr/home/en/), KAIST, 2023 - 2025
-  * GPA: 4.0/4.3
   * Research Areas: Machine Learning Theory, Computer Vision, Diffusion Models, Optimization
   * Thesis: Piecewise Acceleration Flows, SDE Neural Solvers, and Wavelets for Improving Sampling from Diffusion Generative Models
   * Advisors: [Wooseok Ha](https://haywse.github.io/) and [Youngjoon Hong](https://www.youngjoonhong.com/publication)
