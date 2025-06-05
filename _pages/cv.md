@@ -16,9 +16,8 @@ Education
   * Advisors: [Guowei Wei](https://users.math.msu.edu/users/weig/) (Mathematics) and [Arun Ross](https://rossarun.wixsite.com/arun-ross) (Computer Science)
   * External Advisor: [Chi-Wang Shu](https://www.dam.brown.edu/people/shu/) (Brown Mathematics)
 * M.S. in [Mathematics](https://mathsci.kaist.ac.kr/home/en/), KAIST, 2023 - 2025
-  * Research Areas: Machine Learning Theory, Computer Vision, Diffusion Models, Optimization
-  * Thesis: Piecewise Acceleration Flows, SDE Neural Solvers, and Wavelets for Improving Sampling from Diffusion Generative Models
-  * Advisors: [Wooseok Ha](https://haywse.github.io/) and [Youngjoon Hong](https://www.youngjoonhong.com/publication)
+  * Research Areas: Machine Learning Theory, Diffusion Models, Optimization
+  * Advisor: [Wooseok Ha](https://haywse.github.io/)
 
 * B.S. in [Mathematics](https://math.berkeley.edu/) and [Electrical Engineering & Computer Science](https://eecs.berkeley.edu/) (Double Major), UC Berkeley, 2019
   * High Honors (Magna Cum Laude)
@@ -34,7 +33,7 @@ Work Experience
   * AutoML, Graph Neural Networks, Neural Architecture Search
   * Hosted by [Boris Knyazev](https://bknyaz.github.io/) 
     
-* Machine Learning Engineer: January 2022 - January 2023, Dun & Bradstreet, San Mateo, CA
+* Machine Learning Engineer: January 2022 - January 2023, Salesforce
   * Worked on end-to-end machine learning pipelines using Spark, HDFS, AWS Sagemaker
   * Improved ETL pipelines, used Bayesian hyperparameter optimization on existing model
     
@@ -58,7 +57,7 @@ Research Experience
   
 * Fall 2017 - Fall 2018: Undergraduate Research Assistant
   * [Berkeley Artificial Intelligence Research Lab](bair.berkeley.edu): [Gallant Lab](https://gallantlab.org/)
-  * Advisor: Chancellor's Professor Jack Gallant
+  * Advisor: Professor Jack Gallant
   
 Skills
 ================
@@ -119,7 +118,7 @@ Teaching
 
 * Complex Geometry (MAS 621)
 * Functional Analysis (MAS 641)
-* Algebraic Topology (MAS 550)
+* Algebraic Topology I (MAS 550)
 * Algebraic Topology II (MAS 532)
 * Riemannian Geometry (MAS 621)
 * Complex Function Theory (MAS 541)
