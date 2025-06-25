@@ -10,12 +10,13 @@ redirect_from:
 
 Thanks for stopping by my webpage!
 
-I'm a final semester Math Master's Student at [KAIST](https://mathsci.kaist.ac.kr/home/en/), where I'm very fortunate to be advised by [Wooseok Ha](https://haywse.github.io/) and [Youngjoon Hong](https://www.youngjoonhong.com/publication), and to have my research supported by the KAIST Presidential PhD Fellowship. Recently I've been working on improving the theoretical foundations of diffusion models, focusing on sampling efficiency. Also, I've been exploring approaches from graph representation learning and diffusion, in order to generate scalable neural network architectures/parameters. 
-  
+I'm an incoming Mathematics and Computer Science PhD Student at Michigan State University.
 
-Previously, I graduated from UC Berkeley with High Honors, and majors from the [Mathematics Department](https://math.berkeley.edu/) and [Electrical Engineering and Computer Science Department](https://eecs.berkeley.edu), where I had the pleasure of being advised by [Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/) and [Jack Gallant](https://gallantlab.org/) in the [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/). There I worked on research in theoretical visual neuroscience and unsupervised learning methods for computer vision. I was also an undergrad research intern at [UC Irvine](https://engineering.uci.edu/dept/eecs).
+Previously, I completed my Masters in Mathematical Sciences at [KAIST](https://mathsci.kaist.ac.kr/home/en/), where I was very fortunate to be advised by Professor [Wooseok Ha](https://haywse.github.io/) and Professor [Youngjoon Hong](https://www.youngjoonhong.com/publication), and to have my research supported by the KAIST Presidential Graduate Fellowship. 
 
-Before beginning graduate school, I worked as a machine learning engineer, where I gained experience about how to deploy machine learning models in production-quality software, and how to engineer scalable data pipelines.
+Before that, I graduated from UC Berkeley with High Honors, and double majors from the [Mathematics Department](https://math.berkeley.edu/) and [Electrical Engineering and Computer Science Department](https://eecs.berkeley.edu), where I had the pleasure of being advised by [Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/) and [Jack Gallant](https://gallantlab.org/) in the [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/). There I worked on research in theoretical visual neuroscience and unsupervised learning methods for computer vision. I was also an undergrad research intern at [UC Irvine](https://engineering.uci.edu/dept/eecs).
+
+Recently I've been working on improving the theoretical foundations of diffusion models, focusing on sampling efficiency. Also, I've been exploring approaches from graph representation learning and diffusion, in order to generate scalable neural network architectures/parameters. 
 
 Research Interests:
 =====================
@@ -28,7 +29,7 @@ Research Interests:
   
 Besides my research interests, I also find applications of functional analysis to machine learning interesting. I also enjoying teaching math and computer science concepts, and have been a TA for a few courses at KAIST and UC Berkeley.
 
-In my free time (which is kind of nonexistent, haha) my hobbies are swimming and cooking. Recently I've been into Italian recipes! 
+In my free time (which is kind of nonexistent) my hobbies are swimming and cooking. Recently I've been into Italian recipes! 
 
 If you're interested in what I'm doing and want to chat, you're welcome to email me!
 
@@ -38,13 +39,15 @@ News
 
 * Paper accepted to [ICPRAI 2024](https://brain.korea.ac.kr/icprai2024/)!
 * Starting Fall 2025, I will begin as a PhD student in Mathematics and Computer Science at Michigan State University! 
-    * I will be advised by [Guowei Wei](https://users.math.msu.edu/users/weig/) and [Arun Ross](https://rossarun.wixsite.com/arun-ross)
 
 Talks
 ===
 
 * Causality Analysis in Neural Time Series with Cross Convergent Mapping and Empirical Dynamic Modeling
   * _Center for Neuroscience Imaging Research, IBS (Institute of Basic Science)_ -Suwon, South Korea, January 2022
+* Improving Diffusion Model Sampling and Generalization of Diffusion Processes to Riemannian Manifolds
+  * _ICPRAI_ -Jeju Island, South Korea, July 2024 
+
     
 Resources
 ===
