@@ -20,8 +20,7 @@ Education
   * Co-Advisors: [Wooseok Ha](https://haywse.github.io/) and [Youngjoon Hong](https://www.youngjoonhong.com/publication)
 
 * B.S. in [Mathematics](https://math.berkeley.edu/) and [Electrical Engineering & Computer Science](https://eecs.berkeley.edu/) (Double Major), UC Berkeley, 2019
-  * High Honors (Magna Cum Laude)
-  * Major GPA: 3.95/4.00
+  * High Honors (Magna Cum Laude), GPA: 3.95/4.00
   * Honors Thesis: Improved Neuronal Synchrony with Feedforward Complex-Valued Autoencoders for Object Discovery
   * Advisors: [Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/) and [Jack Gallant](https://gallantlab.org/)
 
