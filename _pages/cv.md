@@ -13,11 +13,11 @@ Education
 ============
 * Ph.D. in [Mathematics](https://math.msu.edu/) and [Computer Science](https://engineering.msu.edu/about/departments/cse), Michigan State University, 2025 - Present (Expected 2029)
   * Research Areas: Topological Data Analysis, Geometry Processing, Riemannian Diffusion, Biometrics, Optimization
-  * Advisors: [Guowei Wei](https://users.math.msu.edu/users/weig/) (Mathematics) and [Arun Ross](https://rossarun.wixsite.com/arun-ross) (Computer Science)
+  * Advisors: [Guowei Wei](https://users.math.msu.edu/users/weig/) (Mathematics), [Andrew Christlieb](https://the-christlieb-group.github.io/biography/) (Mathematics), [Arun Ross](https://rossarun.wixsite.com/arun-ross) (Computer Science)
   * External Advisor: [Chi-Wang Shu](https://www.dam.brown.edu/people/shu/) (Brown Mathematics)
 * M.S. in [Mathematics](https://mathsci.kaist.ac.kr/home/en/), KAIST, 2023 - 2025
   * Research Areas: Machine Learning Theory, Diffusion Models, Optimization
-  * Advisor: [Wooseok Ha](https://haywse.github.io/)
+  * Co-Advisors: [Wooseok Ha](https://haywse.github.io/) and [Youngjoon Hong](https://www.youngjoonhong.com/publication)
 
 * B.S. in [Mathematics](https://math.berkeley.edu/) and [Electrical Engineering & Computer Science](https://eecs.berkeley.edu/) (Double Major), UC Berkeley, 2019
   * High Honors (Magna Cum Laude)
