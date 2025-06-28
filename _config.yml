@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Luke Chen"
   avatar           : "https://lchen64.github.io/images/PhotoLukeChen.jpg"
-  bio              : "PhD Student Working on Diffusion Models, Geometric Deep Learning and Scientific Machine Learning. Also interested in Optimization and Image Processing"
+  bio              : "PhD Student Working on Diffusion Models, Geometric Deep Learning, Topological Data Analysis, and Scientific Machine Learning. 
   location         : 
   employer         : "MSU, KAIST"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=qkqFnHEAAAAJ"
@@ -240,7 +240,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  - jekyll-feed 
   - jemoji
 
 
