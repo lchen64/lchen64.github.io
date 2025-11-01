@@ -10,7 +10,7 @@ redirect_from:
 
 Thanks for stopping by my webpage!
 
-I'm a Math and Computer Science PhD Student at Michigan State University.
+I'm a Mathematics PhD Student at Michigan State University, where I am very fortunate to be advised by [Guowei Wei](https://users.math.msu.edu/users/weig/) and [Arun Ross](https://rossarun.wixsite.com/arun-ross).
 
 Previously, I completed my Masters in Mathematical Sciences at [KAIST](https://mathsci.kaist.ac.kr/home/en/), where I was very fortunate to be advised by Professor [Wooseok Ha](https://haywse.github.io/) and Professor [Youngjoon Hong](https://www.youngjoonhong.com/publication), and to have my research supported by the KAIST Presidential Graduate Fellowship. 
 
@@ -38,8 +38,7 @@ News
 ===
 
 * Paper accepted to [ICPRAI 2024](https://brain.korea.ac.kr/icprai2024/)!
-* Starting Fall 2025, I will begin as a PhD student in Mathematics and Computer Science at Michigan State University! 
-
+  
 Talks
 ===
 
