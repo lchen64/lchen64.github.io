@@ -10,7 +10,7 @@ redirect_from:
 
 Thanks for stopping by my webpage!
 
-I'm an incoming Mathematics and Computer Science PhD Student at Michigan State University.
+I'm a Math and Computer Science PhD Student at Michigan State University.
 
 Previously, I completed my Masters in Mathematical Sciences at [KAIST](https://mathsci.kaist.ac.kr/home/en/), where I was very fortunate to be advised by Professor [Wooseok Ha](https://haywse.github.io/) and Professor [Youngjoon Hong](https://www.youngjoonhong.com/publication), and to have my research supported by the KAIST Presidential Graduate Fellowship. 
 
@@ -21,8 +21,8 @@ Recently I've been working on improving the theoretical foundations of diffusion
 Research Interests:
 =====================
 
-* Diffusion Models, Particularly on Non-Euclidean Geometries
-* High-Dimensional Statistics, Domain Adaptation
+* Diffusion Models (particularly on Non-Euclidean Geometries)
+* High-Dimensional Statistics, Machine Learning Theory
 * Geometry Processing, Topological Data Analysis
 * Nonlinear Dynamical Systems Analysis of Optimization Algorithms
 * Image and Video Processing
