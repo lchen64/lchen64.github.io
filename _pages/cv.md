@@ -64,9 +64,7 @@ Skills
 * Linux Server
 * HPC, AWS (Sagemaker, S3)
 * MATLAB
-* Python
-  * numpy, scipy, pandas
-  * PyTorch, Keras, sklearn
+* Python (numpy, scipy, pandas, PyTorch, Keras, sklearn)
 * C
 * LaTeX
   
@@ -138,10 +136,10 @@ Teaching
 * Complex Analysis (MATH 185)
 * Partial Differential Equations (MATH 126)
 * Metric Differential Geometry (MATH 140)
-* Numerical Analysis (MATH 128A)(MATLAB)
+* Numerical Analysis (MATH 128A)
 * Linear Systems & Signals (EE 16B)
-* Data Structures (CS 61B) - (Java)
-* Machine Structures (CS 61C) - (C)
+* Data Structures (CS 61B)
+* Machine Structures (CS 61C) 
 * Algorithms and Complexity Theory (CS 170)
 * Machine Learning (CS 189)
 * Operating Systems and Systems Programming (CS 162)
@@ -173,9 +171,6 @@ References
 * [Nikhil Srivastava](https://math.berkeley.edu/~nikhil/), Professor of Mathematics, UC Berkeley & Senior Scientist, [Simons Institute for Theory of Computing](https://simons.berkeley.edu/homepage) 
   * _Undergraduate Advisor_
   * Email: nikhil@math.berkeley.edu
-* [Uri Hasson](http://www.hasson.org/), Professor, University of Trento
-  * _Research Collaborator_
-  * Email: uri.hasson@unitn.it
   
 Contact Information
 ======
