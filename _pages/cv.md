@@ -13,10 +13,10 @@ Education
 ============
 * Ph.D. in [Mathematics](https://math.msu.edu/) and [Computer Science](https://engineering.msu.edu/about/departments/cse), Michigan State University, 2025 - Present (Expected 2029)
   * Research Areas: Topological Data Analysis, Geometry Processing, Riemannian Diffusion, Biometrics, Optimization
-  * Advisors: [Guowei Wei](https://users.math.msu.edu/users/weig/) (Mathematics), [Arun Ross](https://rossarun.wixsite.com/arun-ross) (Computer Science), [Chi-Wang Shu](https://www.dam.brown.edu/people/shu/) (Brown Applied Mathematics)
+  * Advisors: [Prof. Guowei Wei](https://users.math.msu.edu/users/weig/) (Mathematics), [Prof. Arun Ross](https://rossarun.wixsite.com/arun-ross) (Computer Science), [Chi-Wang Shu](https://www.dam.brown.edu/people/shu/) (Brown Applied Mathematics)
 * M.S. in [Mathematics](https://mathsci.kaist.ac.kr/home/en/), KAIST, 2023 - 2025
   * Research Areas: Machine Learning Theory, Diffusion Models, Optimization
-  * Advisors: [Wooseok Ha](https://haywse.github.io/) and [Youngjoon Hong](https://www.youngjoonhong.com/publication)
+  * Advisors: [Prof. Wooseok Ha](https://haywse.github.io/) and [Prof. Youngjoon Hong](https://www.youngjoonhong.com/publication)
   * Thesis: Recent Progress in Diffusion and Probability Flow Models for Generation, and Methods to Improve their Sampling Efficiency
 * B.S. in [Mathematics](https://math.berkeley.edu/) and [Electrical Engineering & Computer Science](https://eecs.berkeley.edu/) (Double Major), UC Berkeley, 2019
   * High Honors (Magna Cum Laude), GPA: 3.95/4.00
