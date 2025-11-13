@@ -16,7 +16,7 @@ Previously, I completed my Masters in Mathematical Sciences at [KAIST](https://m
 
 Before that, I graduated from UC Berkeley with High Honors, and double majors from the [Mathematics Department](https://math.berkeley.edu/) and [Electrical Engineering and Computer Science Department](https://eecs.berkeley.edu), where I had the pleasure of being advised by [Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/) and [Jack Gallant](https://gallantlab.org/) in the [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/). There I worked on research in theoretical visual neuroscience and unsupervised learning methods for computer vision. I was also an undergrad research intern at [UC Irvine](https://engineering.uci.edu/dept/eecs).
 
-Recently I've been working on the theoretical foundations of diffusion models on manifolds, and on improving their sampling efficiency.
+Recently I've been working on the theoretical foundations of diffusion models on manifolds and on improving their sampling efficiency, with application to biometrics and drug design.
 
 Research Interests:
 =====================
