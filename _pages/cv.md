@@ -12,14 +12,15 @@ redirect_from:
 Education
 ============
 * Ph.D. in [Mathematics](https://math.msu.edu/) and [Computer Science](https://engineering.msu.edu/about/departments/cse), Michigan State University, 2025 - Present (Expected 2029)
-  * Research Areas: Topological Data Analysis, Geometry Processing, Riemannian Diffusion, Biometrics, Optimization
+  * Research Area: Topological Data Analysis, Geometry Processing, Riemannian Diffusion, Biometrics, Optimization
   * Advisors: [Prof. Guowei Wei](https://users.math.msu.edu/users/weig/) (Mathematics), [Prof. Arun Ross](https://rossarun.wixsite.com/arun-ross) (Computer Science), [Prof. Chi-Wang Shu](https://www.dam.brown.edu/people/shu/) (Brown Applied Mathematics)
 * M.S. in [Mathematics](https://mathsci.kaist.ac.kr/home/en/), KAIST, 2023 - 2025
-  * Research Areas: Machine Learning Theory, Diffusion Models, Optimization
+  * Graduated with Distinction
+  * Research Area: Machine Learning Theory, Diffusion Models, Optimization
   * Advisors: [Prof. Wooseok Ha](https://haywse.github.io/) and [Prof. Youngjoon Hong](https://www.youngjoonhong.com/publication)
-  * Thesis: Recent Progress in Diffusion and Probability Flow Models for Generation, and Methods to Improve their Sampling Efficiency
+  * Thesis: Recent Progress in Diffusion and Probability Flow Models, and Methods to Improve Sampling Efficiency
 * B.S. in [Mathematics](https://math.berkeley.edu/) and [Electrical Engineering & Computer Science](https://eecs.berkeley.edu/) (Double Major), UC Berkeley, 2019
-  * High Honors (Magna Cum Laude), GPA: 3.95/4.00
+  * High Honors (Magna Cum Laude); GPA: 3.95/4.00
   * Honors Thesis: Improved Neuronal Synchrony with Feedforward Complex-Valued Autoencoders for Object Discovery
   * Advisor: [Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/)
 
