@@ -10,13 +10,13 @@ redirect_from:
 
 Thanks for stopping by my webpage!
 
-I'm a [Mathematics](https://math.msu.edu/) and [Computer Science](https://engineering.msu.edu/about/departments/cse) PhD Student at Michigan State University, where I am very fortunate to be advised by [Professor Guowei Wei](https://users.math.msu.edu/users/weig/) and [Professor Arun Ross](https://rossarun.wixsite.com/arun-ross).
+I am a [Mathematics](https://math.msu.edu/) and [Computer Science](https://engineering.msu.edu/about/departments/cse) PhD Student at Michigan State University, where I am very fortunate to be advised by [Professor Guowei Wei](https://users.math.msu.edu/users/weig/) and [Professor Arun Ross](https://rossarun.wixsite.com/arun-ross).
 
 Recently I've been working on the theoretical foundation of diffusion models on manifolds and on improving their sampling efficiency, with application to biometrics and bioinformatics.
 
 Previously, I completed my Masters in Mathematical Sciences at [KAIST](https://mathsci.kaist.ac.kr/home/en/), where I was very fortunate to be advised by [Professor Wooseok Ha](https://haywse.github.io/) and [Professor Youngjoon Hong](https://www.youngjoonhong.com/publication), and to have my research supported by the KAIST Presidential Graduate Fellowship. 
 
-Before that, I graduated from UC Berkeley with High Honors and a double major in [Mathematics](https://math.berkeley.edu/) and [Electrical Engineering and Computer Science](https://eecs.berkeley.edu), where I had the pleasure of being advised by [Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/) and [Jack Gallant](https://gallantlab.org/) in the [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/). There I worked on research in theoretical visual neuroscience and unsupervised learning methods for computer vision. I was also an undergrad research intern at [UC Irvine](https://engineering.uci.edu/dept/eecs).
+Before that, I graduated from UC Berkeley with High Honors and a double major in [Mathematics](https://math.berkeley.edu/) and [Electrical Engineering and Computer Science](https://eecs.berkeley.edu), where I had the pleasure of being advised by [Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/) in the [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/). There I worked on research in theoretical visual neuroscience and unsupervised learning methods for computer vision. I was also an undergrad research intern at [UC Irvine](https://engineering.uci.edu/dept/eecs).
 
 
 Research Interests:
