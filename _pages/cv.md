@@ -91,8 +91,6 @@ Publications
    Regression Analysis <br />
    Ignacio Martin-Loeches, Andrew F Shorr, Marin H Kollef, Jiejun Du, Maria C Losada, Amanda Paschke, C Andrew DeRyke, Michael Wong, Erin H  
    Jensen, **Luke Chen** - Open Forum Infectious Diseases
- * An Evaluation of Representational Similarity Analysis for Model Selection and Assessment in Computational Neuroscience <br />
-  **L Chen** - International Conference on Pattern Recognition and Artificial Intelligence
  
   
 Teaching
