@@ -30,9 +30,9 @@ Research Interests:
   
 Besides my research interests, I also find applications of functional analysis to machine learning interesting. I also enjoying teaching math and computer science concepts, and have been a TA for a few courses at KAIST and UC Berkeley.
 
-In my free time (which is kind of nonexistent) my hobbies are swimming and cooking. Recently I've been into Italian recipes! 
+In my free time (which is kind of nonexistent) my hobbies are swimming and cooking. Recently I've been into Italian recipes.
 
-If you're interested in what I'm doing and want to chat, you're welcome to email me!
+If you're interested in what I'm working on and want to chat, feel free to email me!
 
 
 News
