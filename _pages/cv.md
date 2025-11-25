@@ -46,17 +46,14 @@ Research Experience
   * KAIST School of Computing: [MLAI Lab](https://www.mlai-kaist.com/)
   * Advisor: [KAIST Endowed Chair Professor Sungju Hwang](sungjuhwang.com)
    
-* Fall 2018 - Spring 2019: Undergraduate Research Assistant
+* 2017 - 2019: Undergraduate Research Assistant
   * [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/)/[Berkeley Artificial Intelligence Research Lab](bair.berkeley.edu): Olshausen Lab
   * Advisor: [Professor Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/)
 
 * Summer Undergraduate Research Intern
   * [UC Irvine](https://engineering.uci.edu/dept/eecs)
   * Worked on applications of machine learning/deep learning
-  
-* Fall 2017 - Fall 2018: Undergraduate Research Assistant
-  * [Berkeley Artificial Intelligence Research Lab](bair.berkeley.edu): [Gallant Lab](https://gallantlab.org/)
-  * Advisor: Professor Jack Gallant
+
   
 Skills
 ================
