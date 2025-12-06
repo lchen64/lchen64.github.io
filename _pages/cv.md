@@ -13,7 +13,7 @@ Education
 ============
 * Ph.D. in [Mathematics](https://math.msu.edu/) and [Computer Science](https://engineering.msu.edu/about/departments/cse), Michigan State University, 2025 - Present (Expected 2029)
   * Research Areas: Topological Data Analysis, Geometry Processing, Riemannian Diffusion, Image Processing, Scientific Machine Learning
-  * GPA: 4.0/4.0
+  * GPA: 4.00/4.00
   * Advisors: [Prof. Guowei Wei](https://users.math.msu.edu/users/weig/) (Mathematics), [Prof. Arun Ross](https://rossarun.wixsite.com/arun-ross) (Computer Science), [Prof. Chi-Wang Shu](https://www.dam.brown.edu/people/shu/) (Brown Applied Mathematics)
 * M.S. in [Mathematics](https://mathsci.kaist.ac.kr/home/en/), KAIST, 2023 - 2025
   * Graduated with Distinction
