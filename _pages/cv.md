@@ -98,6 +98,7 @@ Teaching
 ======
 * Michigan State University
   * (Fall 2025) Teaching Assistant for MTH235: Ordinary Differential Equations 
+  * Instructor: [Gabriel Nagy](https://users.math.msu.edu/users/gnagy/)
 * KAIST
   * (Spring 2025) Teaching Assistant for MAS201: Differential Equations and Applications
     * Instructor: [Ji Oon Lee](https://mathsci.kaist.ac.kr/~jioon/)
