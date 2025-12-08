@@ -48,12 +48,12 @@ Research Experience
   * Advisor: [KAIST Endowed Chair Professor Sungju Hwang](sungjuhwang.com)
    
 * 2017 - 2019: Undergraduate Research Assistant
-  * [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/)/[Berkeley Artificial Intelligence Research Lab](bair.berkeley.edu): Olshausen Lab
+  * [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/) & [Berkeley Artificial Intelligence Research Lab](bair.berkeley.edu): Olshausen Lab
   * Advisor: [Professor Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/)
 
 * Summer Undergraduate Research Intern
   * [UC Irvine](https://engineering.uci.edu/dept/eecs)
-  * Worked on applications of machine learning/deep learning
+  * Worked on applying machine learning, deep learning, and reinforcement learning to self-driving and other areas
 
   
 Skills
