@@ -96,10 +96,12 @@ Publications
   
 Teaching
 ======
+* Michigan State University
+  * (Fall 2025) Teaching Assistant for MTH235: Ordinary Differential Equations 
 * KAIST
-  * Teaching Assistant for MAS201: Differential Equations and Applications
+  * (Spring 2025) Teaching Assistant for MAS201: Differential Equations and Applications
     * Instructor: [Ji Oon Lee](https://mathsci.kaist.ac.kr/~jioon/)
-  * Teaching Assistant for MAS102: Multivariable Calculus
+  * (Fall 2024) Teaching Assistant for MAS102: Multivariable Calculus
     * Instructor: [Yongjung Kim](https://amath.kaist.ac.kr/pde_lab/members/YongJungKim/)
 * UC Berkeley: 
   * Teaching Assistant for CS61B: Data Structures and Algorithms 
@@ -107,8 +109,17 @@ Teaching
   * Teaching Assistant for MATH54 : Linear Algebra and Differential Equations
     * Instructor : [Nikhil Srivastava](https://math.berkeley.edu/~nikhil/)
 
-# Graduate Coursework (KAIST)
+# Graduate Coursework
 
+## Michigan State University
+* Graduate Algebra I (MTH 818)
+* Graduate Algebra II (MTH 819)
+* Graduate PDE I (MTH 847)
+* Graduate PDE II (MTH 849)
+* Algebraic Geometry I (MTH 916)
+* Algebraic Geometry II (MTH 917)
+
+## KAIST
 * Complex Geometry (MAS 621)
 * Functional Analysis (MAS 641)
 * Algebraic Topology I (MAS 550)
@@ -165,6 +176,10 @@ References
 * [Nikhil Srivastava](https://math.berkeley.edu/~nikhil/), Professor of Mathematics, UC Berkeley & Senior Scientist, [Simons Institute for Theory of Computing](https://simons.berkeley.edu/homepage) 
   * _Undergraduate Advisor_
   * Email: nikhil@math.berkeley.edu
+* [James Powell](https://eml.berkeley.edu/~powell/index.shtml), George Break and Helen Schnacke Break
+Distinguished Professor, UC Berkeley
+  * _Undergraduate Advisor_
+  * Email: jlpowell@arizona.edu
   
 Contact Information
 ======
