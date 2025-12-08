@@ -162,9 +162,6 @@ References
 * [Guowei Wei](https://users.math.msu.edu/users/weig/), MSU Research Foundation Professor, Mathematics, Electrical and Computer Engineering, Biochemistry and Molecular Biology, Michigan State University
   * _PhD Advisor_
   * Email: weig@msu.edu
-* [Youngjoon Hong](https://www.youngjoonhong.com/publication), Professor, Department of Mathematical Sciences, Seoul National University
-  * _Masters Research Advisor_
-  * Email: hongyj@snu.ac.kr
 * [Nikhil Srivastava](https://math.berkeley.edu/~nikhil/), Professor of Mathematics, UC Berkeley & Senior Scientist, [Simons Institute for Theory of Computing](https://simons.berkeley.edu/homepage) 
   * _Undergraduate Advisor_
   * Email: nikhil@math.berkeley.edu
