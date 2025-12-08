@@ -184,6 +184,5 @@ Distinguished Professor, UC Berkeley
 Contact Information
 ======
 
-* E2-1 Room 4213, 291 Daehak-ro Yuseong-gu, Daejeon, 34141, Republic of Korea
-* Phone: +82-10-9634-0252
-* E-mail: lchen64@kaist.ac.kr or chenluk1@msu.edu
+* Office: Wells Hall: 619 Red Cedar Road, East Lansing, MI Room C125
+* E-mail: chenluk1@msu.edu or lchen64@berkeley.edu
