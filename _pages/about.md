@@ -28,17 +28,18 @@ Research Interests:
 * Nonlinear Dynamical Systems Analysis of Optimization Algorithms
 * Image/Video Processing
   
-Besides my research interests, I also find applications of functional analysis to machine learning interesting. I also enjoying teaching math and computer science concepts, and have been a TA for several courses at KAIST and UC Berkeley.
+Besides my research interests, I also find applications of functional analysis to machine learning interesting. I also enjoying teaching math and computer science concepts, and I've been a TA for several courses at Berkeley, KAIST, and now MSU.
 
 Outside of academia, my hobbies include swimming and cooking: recently I've been into Italian recipes.
 
 If you're interested in what I'm working on and want to chat, feel free to email me!
 
 
-News
+Recent News
 ===
 
-* Paper accepted to [ICPRAI 2024](https://brain.korea.ac.kr/icprai2024/)!
+* [Aug. 2025] I started my PhD journey at MSU in Mathematics and Computer Science!
+* [Jun. 2024] Paper accepted to [ICPRAI 2024](https://brain.korea.ac.kr/icprai2024/)!
   
 Talks
 ===
