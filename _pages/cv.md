@@ -14,12 +14,11 @@ Education
 * Ph.D. in [Mathematics](https://math.msu.edu/) and [Computer Science](https://engineering.msu.edu/about/departments/cse), Michigan State University, 2025 - Present (Expected 2029)
   * Research Areas: Topological Data Analysis, Geometry Processing, Riemannian Diffusion, Image Processing, Scientific Machine Learning
   * GPA: 4.00/4.00
-  * Advisors: [Prof. Guowei Wei](https://users.math.msu.edu/users/weig/) (Mathematics), [Prof. Arun Ross](https://rossarun.wixsite.com/arun-ross) (Computer Science), [Prof. Chi-Wang Shu](https://www.dam.brown.edu/people/shu/) (Brown Applied Mathematics)
+  * Advisors: [Prof. Guowei Wei](https://users.math.msu.edu/users/weig/), [Prof. Arun Ross](https://rossarun.wixsite.com/arun-ross)
 * M.S. in [Mathematics](https://mathsci.kaist.ac.kr/home/en/), KAIST, 2023 - 2025
-  * Graduated with Distinction
   * Research Areas: Machine Learning Theory, Diffusion Models, Optimization
   * Advisors: [Prof. Wooseok Ha](https://haywse.github.io/) and [Prof. Youngjoon Hong](https://www.youngjoonhong.com/publication)
-  * Thesis: Recent Progress in Diffusion and Probability Flow Models, and Methods to Improve Sampling Efficiency
+  * Thesis: Recent Progress in Diffusion and Probability Flow Models, and Methods to Improve Their Sampling Efficiency
 * B.S. in [Mathematics](https://math.berkeley.edu/) and [Electrical Engineering & Computer Science](https://eecs.berkeley.edu/) (Double Major), UC Berkeley, 2019
   * High Honors (Magna Cum Laude); GPA: 3.95/4.00
   * Honors Thesis: Improved Neuronal Synchrony with Feedforward Complex-Valued Autoencoders for Object Discovery
