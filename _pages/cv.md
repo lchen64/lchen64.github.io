@@ -11,18 +11,17 @@ redirect_from:
 
 Education
 ============
-* Ph.D. in [Mathematics](https://math.msu.edu/) and [Computer Science](https://engineering.msu.edu/about/departments/cse), Michigan State University, 2025 - Present (Expected 2029)
-  * Research Areas: Topological Data Analysis, Geometry Processing, Riemannian Diffusion, Image Processing, Scientific Machine Learning
-  * GPA: 4.00/4.00
-  * Advisors: [Prof. Guowei Wei](https://users.math.msu.edu/users/weig/) and [Prof. Arun Ross](https://rossarun.wixsite.com/arun-ross)
+* Ph.D. in Electrical Engineering, KAIST, 2026 - Present 
+  * Research Area: Generative Models, Image Processing
+  * Advisor: [Prof. Munchurl Kim](https://www.viclab.kaist.ac.kr/professor)
 * M.S. in [Mathematics](https://mathsci.kaist.ac.kr/home/en/), KAIST, 2023 - 2025
   * Research Areas: Machine Learning Theory, Diffusion Models, Optimization
   * Advisors: [Prof. Wooseok Ha](https://haywse.github.io/) and [Prof. Youngjoon Hong](https://www.youngjoonhong.com/publication)
   * Thesis: Recent Progress in Diffusion and Probability Flow Models, and Methods to Improve Their Sampling Efficiency
-* B.S. in [Mathematics](https://math.berkeley.edu/) and [Electrical Engineering & Computer Science](https://eecs.berkeley.edu/) (Double Major), UC Berkeley, 2019
-  * High Honors (Magna Cum Laude); GPA: 3.95/4.00
-  * Honors Thesis: Improved Neuronal Synchrony with Feedforward Complex-Valued Autoencoders for Object Discovery
+* B.S. in [Mathematics](https://math.berkeley.edu/) and [Electrical Engineering & Computer Science](https://eecs.berkeley.edu/), UC Berkeley, 2019
   * Advisor: [Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/)
+  * Magna Cum Laude, GPA: 3.95/4.00
+  * Honors Thesis: Improved Neuronal Synchrony with Feedforward Complex-Valued Autoencoders for Object Discovery
 
 
 Work Experience
@@ -85,19 +84,10 @@ Publications
   J Wang, **L Chen**, MA Al Faruque - IEEE/ACM International Conference on Computer Aided Design (ICCAD)
  * Neural Contextual Bandits-Based Dynamic Sensor Selection for Low-Power Body-Area Networks <br />
    BU Demirel, **L Chen**, MA Al Faruque - ACM/IEEE International Symposium on Low Power Electronics and Design
- * Software and Hardware Systems for Autonomous Smart Parking Accommodating both Traditional and Autonomous Vehicles <br />
-   MA Al Faruque, M Odema, **L Chen** - Pacific Southwest Region University Transportation Center
- * Participant- and Disease-Related Factors as Independent Predictors of Treatment Outcomes in the RESTORE-IMI 2 Clinical Trial: A Multivariable 
-   Regression Analysis <br />
-   Ignacio Martin-Loeches, Andrew F Shorr, Marin H Kollef, Jiejun Du, Maria C Losada, Amanda Paschke, C Andrew DeRyke, Michael Wong, Erin H  
-   Jensen, **Luke Chen** - Open Forum Infectious Diseases
- 
-  
+
+   
 Teaching
 ======
-* Michigan State University
-  * (Fall 2025) Teaching Assistant for MTH235: Ordinary Differential Equations 
-  * Instructor: [Gabriel Nagy](https://users.math.msu.edu/users/gnagy/)
 * KAIST
   * (Spring 2025) Teaching Assistant for MAS201: Differential Equations and Applications
     * Instructor: [Ji Oon Lee](https://mathsci.kaist.ac.kr/~jioon/)
@@ -110,14 +100,6 @@ Teaching
     * Instructor : [Nikhil Srivastava](https://math.berkeley.edu/~nikhil/)
 
 # Graduate Coursework
-
-## Michigan State University
-* Graduate Algebra I (MTH 818)
-* Graduate Algebra II (MTH 819)
-* Graduate PDE I (MTH 847)
-* Graduate PDE II (MTH 849)
-* Algebraic Geometry I (MTH 916)
-* Algebraic Geometry II (MTH 917)
 
 ## KAIST
 * Complex Geometry (MAS 621)
@@ -168,11 +150,7 @@ References
 ================
 
 * [Arun Ross](https://rossarun.wixsite.com/arun-ross), Martin J. Vanderploeg Endowed Professor, Department of Computer Science and Engineering, Michigan State University
-  * _PhD Advisor_
   * Email: rossarun@cse.msu.edu
-* [Guowei Wei](https://users.math.msu.edu/users/weig/), MSU Research Foundation Professor, Mathematics, Electrical and Computer Engineering, Biochemistry and Molecular Biology, Michigan State University
-  * _PhD Advisor_
-  * Email: weig@msu.edu
 * [Nikhil Srivastava](https://math.berkeley.edu/~nikhil/), Professor of Mathematics, UC Berkeley & Senior Scientist, [Simons Institute for Theory of Computing](https://simons.berkeley.edu/homepage) 
   * _Undergraduate Advisor_
   * Email: nikhil@math.berkeley.edu
@@ -183,6 +161,4 @@ Distinguished Professor, UC Berkeley
   
 Contact Information
 ======
-
-* Office: Wells Hall: 619 Red Cedar Road, East Lansing, MI Room C125
-* E-mail: chenluk1@msu.edu or lchen64@berkeley.edu
+* E-mail: lchen64@kaist.ac.kr or lchen64@berkeley.edu
