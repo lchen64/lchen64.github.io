@@ -10,7 +10,7 @@ redirect_from:
 
 Thanks for stopping by my webpage!
 
-I am a PhD Student at KAIST, where I am fortunate to be advised by Prof. Munchurl Kim
+I am a PhD Student in Electrical Engineering at KAIST, where I am very fortunate to be advised by Prof. Munchurl Kim in the Video and Image Computing (VIC Lab).
 
 Recently I've been working on the theoretical foundation of diffusion models on manifolds and on improving their sampling efficiency.
 
