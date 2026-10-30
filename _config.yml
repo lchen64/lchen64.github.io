@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Luke Chen"
   avatar           : "https://lchen64.github.io/images/PhotoLukeChen.jpg"
-  bio              : "PhD Student Working on Diffusion Models, Geometric Deep Learning, Topological Data Analysis, and Scientific Machine Learning" 
+  bio              : "PhD Student Working on Diffusion Models, Computer Vision, Image/Video Processing, Geometric Deep Learning, and Scientific ML" 
   location         : 
-  employer         : "Michigan State University"
+  employer         : "KAIST"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=qkqFnHEAAAAJ"
   email            : "chenluk1@msu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
