@@ -17,7 +17,7 @@ Education
 * M.S. in [Mathematics](https://mathsci.kaist.ac.kr/home/en/), KAIST, 2023 - 2025
   * Research Areas: Machine Learning Theory, Diffusion Models, Optimization
   * Advisors: [Prof. Wooseok Ha](https://haywse.github.io/) and [Prof. Youngjoon Hong](https://www.youngjoonhong.com/publication)
-  * GPA: 4.00/4.30
+  * GPA: 4.03/4.30
   * Thesis: Recent Progress in Diffusion and Probability Flow Models, and Methods to Improve Their Sampling Efficiency
 * B.S. in [Mathematics](https://math.berkeley.edu/) and [Electrical Engineering & Computer Science](https://eecs.berkeley.edu/), UC Berkeley, 2019
   * Advisor: [Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/)
